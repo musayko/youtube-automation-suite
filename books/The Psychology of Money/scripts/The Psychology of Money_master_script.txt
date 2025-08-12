@@ -1,0 +1,870 @@
+## Introduction: More Than Just Math - The Psychology of Money
+
+Welcome, traveler, to the heart of our journey. We embark today on a path less trodden in the world of finance. We’re not here for spreadsheets, formulas, or complex algorithms. Our focus is on something far more human, far more unpredictable: behavior.
+
+This book, "The Psychology of Money," isn't about becoming a financial genius. It's about understanding why we do what we do with money, and how we can do it better. As Napoleon said, “A genius is the man who can do the average thing when everyone else around him is losing his mind.” And as Sherlock Holmes observed, “The world is full of obvious things which nobody by any chance ever observes.” We aim to see the obvious, the human, the behavioral.
+
+Consider the tale of the technology executive, a genius who designed key components of Wi-Fi routers and started multiple successful companies. He was wildly rich, yet he flaunted his wealth with a mix of insecurity and childish stupidity. He threw gold coins into the ocean, shattered lamps, and showered managers with cash, only to go broke years later. Then contrast that with Ronald Read, an American janitor and gas station attendant. A humble man with no financial education, he quietly saved and invested, amassing a net worth of over $8 million by the time he died.
+
+In what other field could someone with no college degree, no training, no background, no formal experience, and no connections massively outperform someone with the best education, the best training, and the best connections? It's impossible to imagine Ronald Read performing heart surgery better than a Harvard-trained surgeon or designing a skyscraper superior to the best-trained architects. Yet, these stories happen in investing. Why?
+
+Because financial success is not a hard science. It's a soft skill. It's about how you behave, not necessarily what you know. It is, as we call it, the psychology of money. This is a greatly underappreciated skill. Finance is overwhelmingly taught as a math-based field, where data goes into a formula, and the formula tells you what to do, assuming you'll just go and do it. "Have a six-month emergency fund and save 10% of your salary," we are told. We know the historical correlations between interest rates and valuations. CFOs can measure the precise cost of capital. It's not that any of these things are wrong, but knowing what to do tells you nothing about what happens in your head when you try to do it.
+
+Two topics impact everyone: health and money. The healthcare industry is a triumph of modern science, with rising life expectancy across the world. But has the influx of brilliant minds into finance made us better investors? Are we less likely to bury ourselves in debt, more likely to save for a rainy day, prepare for retirement, and have realistic views about what money does and doesn't do for our happiness? The evidence is unconvincing.
+
+Why? Because we think about and are taught about money too much like physics, with rules and laws, and not enough like psychology, with emotions and nuance. Money is everywhere, affects all of us, and confuses most of us. Everyone thinks about it a little differently. It offers lessons on risk, confidence, and happiness. Money is one of the greatest shows on Earth.
+
+My own appreciation for the psychology of money was shaped during the 2008 financial crisis. I wanted to figure out what was happening. The first thing I learned was that no one could accurately explain what happened, or why, let alone what should be done. For every good explanation, there was an equally convincing rebuttal. Unlike engineering, finance is not guided by laws. It’s guided by people’s behaviors, and how I behave might make sense to me but look crazy to you.
+
+The more I studied the financial crisis, the more I realized that you could understand it better through the lenses of psychology and history, not finance. To grasp why people bury themselves in debt, you don't need to study interest rates; you need to study the history of greed, insecurity, and optimism. To get why investors sell out at the bottom of a bear market, you don't need to study the math of expected future returns; you need to think about the agony of looking at your family and wondering if your investments are imperiling their future.
+
+I love Voltaire’s observation that “History never repeats itself; man always does.” It applies so well to how we behave with money. You will now hold a deeper dive into the most important, and often counterintuitive, features of the psychology of money. Each chapter describes these concepts in the form of short, engaging stories. It’s not a long book, and that is intentional. I’d rather make many short points you finish than one long one you give up on.
+
+Let's begin with a critical point. People do some crazy things with money, but no one is crazy. The person who grew up in poverty thinks about risk and reward in ways the child of a wealthy banker cannot fathom. The person who grew up when inflation was high experienced something the person who grew up with stable prices never had to. Everyone has their own unique experience with how the world works. And what you’ve experienced is more compelling than what you learn secondhand.
+
+Your personal experiences with money make up maybe 0.00000001% of what's happened in the world, but maybe 80% of how you think the world works. So equally smart people can disagree about how and why recessions happen, how you should invest your money, what you should prioritize, how much risk you should take, and so on.
+
+In his book on 1930s America, Frederick Lewis Allen wrote that the Great Depression “marked millions of Americans—inwardly—for the rest of their lives.” John F. Kennedy, however, remarked, “I have no first-hand knowledge of the Depression. My family had one of the great fortunes of the world and it was worth more than ever then. We had bigger houses, more servants, we traveled more.”
+
+The challenge for us is that no amount of studying or open-mindedness can genuinely recreate the power of fear and uncertainty. We all think we know how the world works, but we've all only experienced a tiny sliver of it. As investor Michael Batnick says, "Some lessons have to be experienced before they can be understood." We are all victims, in different ways, to that truth. This helps explain why, for example, people's lifetime investment decisions are heavily anchored to the experiences those investors had in their own generation, especially early in their adult life, and why the famed bond manager Bill Gross admits that he would probably not be where he is today if he had been born a decade earlier or later.
+
+The differences in how people have experienced money are not small, even among those you might think are pretty similar. The unemployment rate, local stock markets, German farms after the war, and so much more. No one should expect members of these groups to go through the rest of their lives thinking the same thing about inflation, the stock market, unemployment, or money in general. No one should expect them to respond to financial information the same way. No one should assume they are influenced by the same incentives. No one should expect them to trust the same sources of advice.
+
+Take the example of lottery tickets, mostly purchased by poor people. It seems crazy, but low-income lottery ticket buyers are paying for a dream. They see it as the only time in their lives they can hold a tangible dream of getting the good stuff that you already have and take for granted. That's why they buy more tickets than you do. You don't have to agree with this reasoning. Buying lotto tickets when you're broke is still a bad idea.
+
+Every decision people make with money is justified by taking the information they have at the moment and plugging it into their unique mental model of how the world works. Every financial decision a person makes makes sense to them in that moment and checks the boxes they need to check. Recognize how new this topic is. At the end of 2018 there was $27 trillion in U.S. retirement accounts. But the entire concept of being entitled to retirement is, at most, two generations old. The 401(k)—the backbone savings vehicle of American retirement—did not exist until 1978. The Roth IRA was not born until 1998. It should surprise no one that many of us are bad at saving and investing for retirement. We're not crazy. We're all just newbies. The same goes for college, index funds, hedge funds, and even widespread use of consumer debt.
+
+We all do crazy stuff with money, because we're all relatively new to this game, and what looks crazy to you might make sense to me. But no one is crazy—we all make decisions based on our own unique experiences that seem to make sense to us in a given moment.
+
+Now let me tell you a story about how Bill Gates got rich.
+
+
+## 1. The Illusion of Control: Why 'No One's Crazy' When It Comes to Money
+
+Welcome back. Last time, we explored the philosopher-king’s invitation to consider the nature of money and its place in our lives. Today, we embark on the first step of our journey: understanding why, when it comes to money, what seems crazy to one person, makes perfect sense to another.
+
+Let’s acknowledge a fundamental truth: people do some pretty wild things with money. We’ve all seen it. Maybe we’ve even *done* it. But here’s the thing: no one is inherently crazy. What drives these seemingly irrational decisions?
+
+As our guide, Morgan Housel writes, "People from different generations, raised by different parents who earned different incomes and held different values, in different parts of the world, born into different economies, experiencing different job markets with different incentives and different degrees of luck, learn very different lessons."
+
+Think about that for a moment. Our individual experiences shape our perceptions of risk and reward. The person who grew up in poverty will approach financial decisions very differently than someone born into wealth. The person who witnessed hyperinflation firsthand will forever view savings with a different lens than someone raised in an era of stable prices.
+
+What seems logical to you, based on your unique journey, might appear utterly baffling to someone else. You know stuff about money that I don’t, and vice versa.
+
+Housel emphasizes, "Your personal experiences with money make up maybe 0.00000001% of what’s happened in the world, but maybe 80% of how you think the world works." It's a sobering thought, isn't it? We build our entire financial worldview on a sliver of information, yet we often assume our perspective is universal.
+
+Consider the Great Depression. Frederick Lewis Allen observed it "marked millions of Americans—inwardly—for the rest of their lives." But even within that era, experiences varied drastically. John F. Kennedy, raised in immense wealth, admitted, "I have no first-hand knowledge of the Depression. My family had one of the great fortunes of the world and it was worth more than ever then."
+
+Can someone without that lived experience truly understand the financial anxieties of those who lost everything? The challenge, then, is acknowledging the limitations of our own perspective and recognizing the validity of others. No amount of reading or intellectualizing can replicate the visceral impact of lived experience. I can read about losing everything during the Depression, but I don’t have the emotional scars of those who actually lived it.
+
+This isn’t simply about tolerance; it’s about understanding. As investor Michael Batnick wisely says, "Some lessons have to be experienced before they can be understood." We’re all victims, in different ways, to that truth.
+
+Economists Ulrike Malmendier and Stefan Nagel delved into decades of consumer finance data and discovered a fascinating pattern: "Individual investors’ willingness to bear risk depends on personal history." Not intelligence, not education, not even sophistication. Just the dumb luck of when and where you were born.
+
+Bill Gross, the celebrated bond manager, admitted that his career success was significantly influenced by the timing of his birth, which coincided with a generational collapse in interest rates. What opportunities are presented to us affects how we think about them.
+
+The differences in how we experience money are significant. Imagine someone born in 1970, witnessing a tenfold increase in the stock market during their formative years. Contrast that with someone born in 1950, who saw the market stagnate during the same period. Two generations, two entirely different views of the stock market.
+
+The same holds true for inflation, unemployment, and countless other economic factors. The list of experiences is endless.
+
+So how do we bridge these divides? How do we make sense of the seemingly senseless choices others make? The key, Housel argues, lies in empathy. He invokes the Foxconn factory story, where poor working conditions are viewed as improvements compared to worse fates. It's a difficult perspective to embrace, but illustrates the impact of our different realities.
+
+Each financial decision, even those that seem irrational, is justified by the individual's unique mental model of the world.
+
+"Every financial decision a person makes, makes sense to them in that moment and checks the boxes they need to check. They tell themselves a story about what they’re doing and why they’re doing it, and that story has been shaped by their own unique experiences."
+
+Consider the lottery. Is it crazy for someone struggling to make ends meet to spend money on a lottery ticket? Yes, but if you can understand their subconscious reasoning, it starts to make sense.
+
+They’re not just buying a ticket, they’re buying a dream. A dream of escaping their financial constraints and experiencing the life that so many others take for granted.
+
+This is the heart of it: "What you’re doing seems crazy but I kind of understand why you’re doing it." Uncovering that underlying logic is crucial to understanding not just others, but ourselves.
+
+And there’s one more important layer to consider. The modern financial system is relatively new. Retirement as we know it, student loans, index funds, and even widespread consumer debt – these are recent developments in human history. We’re all, to some extent, winging it.
+    
+The 401k, the backbone of modern retirement savings, did not exist until 1978. It’s an infant. We are all babies when we compare ourselves to human existence, yet here we are operating a society based on what we think will work.
+
+Dogs have lived alongside man for over ten thousand years. Even they retain their ancestral behaviors. And we have just decades of experience in this system. It is no wonder we struggle. It also helps explain why we don’t always do what we’re supposed to with money.
+    
+So, as we navigate the complexities of the financial world, remember that what looks crazy to you might make sense to me. We all make decisions based on our own unique experiences that seem logical at the time.
+
+No one is crazy, we all act accordingly to our experiences, the experiences we were taught, and the incentives we have. Understanding that is the first step towards financial wisdom. Next time, we’ll explore the role of luck and risk in shaping financial outcomes.
+
+
+## 2. Luck & Risk: Recognizing the Unseen Forces Shaping Financial Outcomes
+
+Luck and risk are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort.
+
+NYU professor Scott Galloway has a related idea that is so important to remember when judging success – both your own and others’: “Nothing is as good or as bad as it seems.”
+
+Bill Gates went to one of the only high schools in the world that had a computer. The story of how Lakeside School, just outside Seattle, even got a computer is remarkable. Bill Dougall was a World War II navy pilot turned high school math and science teacher.
+
+“He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college,” recalled late Microsoft co-founder Paul Allen. In 1968 Dougall petitioned the Lakeside School Mothers’ Club to use the proceeds from its annual rummage sale—about $3,000—to lease a Teletype Model 30 computer hooked up to the General Electric mainframe terminal for computer time-sharing.
+
+“The whole idea of time-sharing only got invented in 1965,” Gates later said. “Someone was pretty forwardlooking.”
+
+Most university graduate schools did not have a computer anywhere near as advanced as Bill Gates had access to in eighth grade. And he couldn’t get enough of it. Gates was 13 years old in 1968 when he met classmate Paul Allen. Allen was also obsessed with the school’s computer, and the two hit it off. Lakeside’s computer wasn’t part of its general curriculum. It was an independent study program. Bill and Paul could toy away with the thing at their leisure, letting their creativity run wild—after school, late into the night, on weekends. They quickly became computing experts.
+
+During one of their late-night sessions, Allen recalled Gates showing him a Fortune magazine and saying, “What do you think it’s like to run a Fortune 500 company?” Allen said he had no idea. “Maybe we’ll have our own computer company someday,” Gates said. Microsoft is now worth more than a trillion dollars.
+
+A little quick math. In 1968 there were roughly 303 million high-school-age people in the world, according to the UN. About 18 million of them lived in the United States. About 270,000 of them lived in Washington state. A little over 100,000 of them lived in the Seattle area. And only about 300 of them attended Lakeside School. Start with 303 million, end with 300. One in a million high-school-age students attended the high school that had the combination of cash and foresight to buy a computer. Bill Gates happened to be one of them.
+
+Gates is not shy about what this meant. “If there had been no Lakeside, there would have been no Microsoft,” he told the school’s graduating class in 2005. Gates is staggeringly smart, even more hardworking, and as a teenager had a vision for computers that even most seasoned computer executives couldn’t grasp. He also had a one in a million head start by going to school at Lakeside.
+
+Now let me tell you about Gates’ friend Kent Evans. He experienced an equally powerful dose of luck’s close sibling, risk.
+
+Bill Gates and Paul Allen became household names thanks to Microsoft’s success. But back at Lakeside there was a third member of this gang of high-school computer prodigies. Kent Evans and Bill Gates became best friends in eighth grade. Evans was, by Gates’ own account, the best student in the class. The two talked “on the phone ridiculous amounts,” Gates recalls in the documentary Inside Bill’s Brain. “I still know Kent’s phone number,” he says. “525-7851.”
+
+Evans was as skilled with computers as Gates and Allen. Lakeside once struggled to manually put together the school’s class schedule—a maze of complexity to get hundreds of students the classes they need at times that don’t conflict with other courses. The school tasked Bill and Kent—children, by any measure—to build a computer program to solve the problem. It worked. And unlike Paul Allen, Kent shared Bill’s business mind and endless ambition.
+
+“Kent always had the big briefcase, like a lawyer’s briefcase,” Gates recalls. “We were always scheming about what we’d be doing five or six years in the future. Should we go be CEOs? What kind of impact could you have? Should we go be generals? Should we go be ambassadors?” Whatever it was, Bill and Kent knew they’d do it together.
+
+After reminiscing on his friendship with Kent, Gates trails off. “We would have kept working together. I’m sure we would have gone to college together.” Kent could have been a founding partner of Microsoft with Gates and Allen. But it would never happen. Kent died in a mountaineering accident before he graduated high school.
+
+Every year there are around three dozen mountaineering deaths in the United States. The odds of being killed on a mountain in high school are roughly one in a million. Bill Gates experienced one in a million luck by ending up at Lakeside. Kent Evans experienced one in a million risk by never getting to finish what he and Gates set out to achieve. The same force, the same magnitude, working in opposite directions.
+
+Luck and risk are both the reality that every outcome in life is guided by forces other than individual effort. They are so similar that you can’t believe in one without equally respecting the other. They both happen because the world is too complex to allow 100% of your actions to dictate 100% of your outcomes. They are driven by the same thing: You are one person in a game with seven billion other people and infinite moving parts. The accidental impact of actions outside of your control can be more consequential than the ones you consciously take. But both are so hard to measure, and hard to accept, that they too often go overlooked.
+
+For every Bill Gates there is a Kent Evans who was just as skilled and driven but ended up on the other side of life roulette. If you give luck and risk their proper respect, you realize that when judging people’s financial success—both your own and others’—it’s never as good or as bad as it seems.
+
+Years ago I asked economist Robert Shiller, who won the Nobel Prize in economics, “What do you want to know about investing that we can’t know?”
+
+“The exact role of luck in successful outcomes,” he answered. I love that response, because no one actually thinks luck doesn’t play a role in financial success. But since it’s hard to quantify luck and rude to suggest people’s success is owed to it, the default stance is often to implicitly ignore luck as a factor of success. If I say, “There are a billion investors in the world. By sheer chance, would you expect 10 of them to become billionaires predominantly off luck?” You would reply, “Of course.” But then if I ask you to name those investors—to their face—you will likely back down.
+
+When judging others, attributing success to luck makes you look jealous and mean, even if we know it exists. And when judging yourself, attributing success to luck can be too demoralizing to accept.
+
+Economist Bhashkar Mazumder has shown that incomes among brothers are more correlated than height or weight. If you are rich and tall, your brother is more likely to also be rich than he is tall. I think most of us intuitively know this is true—the quality of your education and the doors that open for you are heavily linked to your parents’ socioeconomic status. But find me two rich brothers and I’ll show you two men who do not think this study’s findings apply to them.
+
+Failure—which can be anything from bankruptcy to not meeting a personal goal—is equally abused. Did failed businesses not try hard enough? Were bad investments not thought through well enough? Are wayward careers due to laziness? Sometimes, yes. Of course. But how much? It’s so hard to know.
+
+Everything worth pursuing has less than 100% odds of succeeding, and risk is just what happens when you end up on the unfortunate side of that equation. Just as with luck, the story gets too hard, too messy, too complex if we try to pick apart how much of an outcome was a conscious decision versus a risk.
+
+Say I buy a stock, and five years later it’s gone nowhere. It’s possible that I made a bad decision by buying it in the first place. It’s also possible that I made a good decision that had an 80% chance of making money, and I just happened to end up on the side of the unfortunate 20%. How do I know which is which? Did I make a mistake, or did I just experience the reality of risk?
+
+It’s possible to statistically measure whether some decisions were wise. But in the real world, day to day, we simply don’t. It’s too hard. We prefer simple stories, which are easy but often devilishly misleading.
+
+After spending years around investors and business leaders I’ve come to realize that someone else’s failure is usually attributed to bad decisions, while your own failures are usually chalked up to the dark side of risk. When judging your failures I’m likely to prefer a clean and simple story of cause and effect, because I don’t know what’s going on inside your head. “You had a bad outcome so it must have been caused by a bad decision” is the story that makes the most sense to me. But when judging myself I can make up a wild narrative justifying my past decisions and attributing bad outcomes to risk.
+
+The cover of Forbes magazine does not celebrate poor investors who made good decisions but happened to experience the unfortunate side of risk. But it almost certainly celebrates rich investors who made OK or even reckless decisions and happened to get lucky. Both flipped the same coin that happened to land on a different side.
+
+The dangerous part of this is that we’re all trying to learn about what works and what doesn’t with money. What investing strategies work? Which ones don’t? What business strategies work? Which ones don’t? How do you get rich? How do you avoid being poor? We tend to seek out these lessons by observing successes and failures and saying, “Do what she did, avoid what he did.”
+
+If we had a magic wand we would find out exactly what proportion of these outcomes were caused by actions that are repeatable, versus the role of random risk and luck that swayed those actions one way or the other. But we don’t have a magic wand. We have brains that prefer easy answers without much appetite for nuance. So identifying the traits we should emulate or avoid can be agonizingly hard.
+
+Let me tell you another story of someone who, like Bill Gates, was wildly successful, but whose success is hard to pin down as being caused by luck or skill.
+
+Cornelius Vanderbilt had just finished a series of business deals to expand his railroad empire. One of his business advisors leaned in to tell Vanderbilt that every transaction he agreed to broke the law. “My God, John,” said Vanderbilt, “You don’t suppose you can run a railroad in accordance with the statutes of the State of New York, do you?”
+
+My first thought when reading this was: “That attitude is why he was so successful.” Laws didn’t accommodate railroads during Vanderbilt’s day. So he said “to hell with it” and went ahead anyway. Vanderbilt was wildly successful. So it’s tempting to view his law-flouting—which was notorious and vital to his success—as sage wisdom. That scrappy visionary let nothing get in his way!
+
+But how dangerous is that analysis? No sane person would recommend flagrant crime as an entrepreneurial trait. You can easily imagine Vanderbilt’s story turning out much different—an outlaw whose young company collapsed under court order. So we have a problem here. You can praise Vanderbilt for flouting the law with as much passion as you criticize Enron for doing the same. Perhaps one got lucky by avoiding the arm of the law while the other found itself on the side of risk.
+
+John D. Rockefeller is similar. His frequent circumventing of the law—a judge once called his company “no better than a common thief”—is often portrayed by historians as cunning business smarts. Maybe it was. But when does the narrative shift from, “You didn’t let outdated laws get in the way of innovation,” to “You committed a crime?” Or how little would the story have to shift for the narrative to have turned from “Rockefeller was a genius, try to learn from his successes,” to “Rockefeller was a criminal, try to learn from his business failures.” Very little.
+
+“What do I care about the law?” Vanderbilt once said. “Ain’t I got the power?” He did, and it worked. But it’s easy to imagine those being the last words of a story with a very different outcome. The line between bold and reckless can be thin. When we don’t give risk and luck their proper billing it’s often invisible.
+
+Benjamin Graham is known as one of the greatest investors of all time, the father of value investing and the early mentor of Warren Buffett. But the majority of Benjamin Graham’s investing success was due to owning an enormous chunk of GEICO stock which, by his own admission, broke nearly every diversification rule that Graham himself laid out in his famous texts. Where does the thin line between bold and reckless fall here? I don’t know.
+
+Graham wrote about his GEICO bonanza: “One lucky break, or one supremely shrewd decision—can we tell them apart?” Not easily.
+
+We similarly think Mark Zuckerberg is a genius for turning down Yahoo!’s 2006 $1 billion offer to buy his company. He saw the future and stuck to his guns. But people criticize Yahoo! with as much passion for turning down its own big buyout offer from Microsoft—those fools should have cashed out while they could! What is the lesson for entrepreneurs here? I have no idea, because risk and luck are so hard to pin down.
+
+There are so many examples of this. Countless fortunes (and failures) owe their outcome to leverage. The best (and worst) managers drive their employees as hard as they can. “The customer is always right” and “customers don’t know what they want” are both accepted business wisdom. The line between “inspiringly bold” and “foolishly reckless” can be a millimeter thick and only visible with hindsight. Risk and luck are doppelgangers.
+
+This is not an easy problem to solve. The difficulty in identifying what is luck, what is skill, and what is risk is one of the biggest problems we face when trying to learn about the best way to manage money. But two things can point you in a better direction.
+
+Be careful who you praise and admire. Be careful who you look down upon and wish to avoid becoming. Or, just be careful when assuming that 100% of outcomes can be attributed to effort and decisions. After my son was born, I wrote him a letter that said, in part:
+
+Some people are born into families that encourage education; others are against it. Some are born into flourishing economies encouraging of entrepreneurship; others are born into war and destitution. I want you to be successful, and I want you to earn it. But realize that not all success is due to hard work, and not all poverty is due to laziness. Keep this in mind when judging people, including yourself.
+
+Therefore, focus less on specific individuals and case studies and more on broad patterns. Studying a specific person can be dangerous because we tend to study extreme examples—the billionaires, the CEOs, or the massive failures that dominate the news—and extreme examples are often the least applicable to other situations, given their complexity. The more extreme the outcome, the less likely you can apply its lessons to your own life, because the more likely the outcome was influenced by extreme ends of luck or risk. You’ll get closer to actionable takeaways by looking for broad patterns of success and failure. The more common the pattern, the more applicable it might be to your life.
+
+Trying to emulate Warren Buffett’s investment success is hard, because his results are so extreme that the role of luck in his lifetime performance is very likely high, and luck isn’t something you can reliably emulate. But realizing, as we’ll see in chapter 7, that people who have control over their time tend to be happier in life is a broad and common enough observation that you can do something with it.
+
+My favorite historian, Frederick Lewis Allen, spent his career depicting the life of the average, median American—how they lived, how they changed, what they did for work, what they ate for dinner, etc. There are more relevant lessons to take away from this kind of broad observation than there are in studying the extreme characters that tend to dominate the news.
+
+Bill Gates once said, “Success is a lousy teacher. It seduces smart people into thinking they can’t lose.” When things are going extremely well, realize it’s not as good as you think. You are not invincible, and if you acknowledge that luck brought you success then you have to believe in luck’s cousin, risk, which can turn your story around just as quickly.
+
+But the same is true in the other direction. Failure can be a lousy teacher, because it seduces smart people into thinking their decisions were terrible when sometimes they just reflect the unforgiving realities of risk. The trick when dealing with failure is arranging your financial life in a way that a bad investment here and a missed financial goal there won’t wipe you out so you can keep playing until the odds fall in your favor. But more important is that as much as we recognize the role of luck in success, the role of risk means we should forgive ourselves and leave room for understanding when judging failures.
+
+Nothing is as good or as bad as it seems. Now let’s look at the stories of two men who pushed their luck.
+
+
+## 3. Defining 'Enough': Why Insatiable Ambition Can Be Your Downfall
+
+John Bogle, the Vanguard founder, once told a story about money: At a party given by a billionaire on Shelter Island, Kurt Vonnegut informs Joseph Heller that their host, a hedge fund manager, had made more money in a single day than Heller had earned from his wildly popular novel Catch-22 over its whole history. Heller responds, “Yes, but I have something he will never have … enough.”
+
+Enough. That simple word, so eloquent, so powerful. For a critical element of our society, it seems there is no limit today on what 'enough' entails. Let's consider two examples, stories that demonstrate the dangers of never having 'enough.'
+
+Rajat Gupta was orphaned as a teenager. By his mid-40s, he was CEO of McKinsey, the world’s most prestigious consulting firm. From the slums of Kolkata, he became one of the most successful businessmen alive. By 2008, Gupta was reportedly worth $100 million. He could have done anything he wanted in life. But what he wanted, by all accounts, was not to be a mere centa-millionaire. Rajat Gupta wanted to be a billionaire.
+
+As a Goldman Sachs board member, he learned of Warren Buffett's planned investment of $5 billion in the bank. Just sixteen seconds after learning of the deal, Gupta called a hedge fund manager, Raj Rajaratnam, who immediately bought shares of Goldman Sachs. Rajaratnam made a quick $1 million. That was just one example of an alleged trend. The SEC claims Gupta’s insider tips led to $17 million in profits. Gupta and Rajaratnam both went to prison for insider trading, their careers and reputations irrevocably ruined.
+
+Consider Bernie Madoff. Before his Ponzi scheme, Madoff was a wildly successful and legitimate businessman. His market-making firm siphoned a huge volume of stock trades away from the Big Board. A former staffer said the market-making arm of Madoff’s business made between $25 million and $50 million per year. And yet, the fraud.
+
+Why would someone worth hundreds of millions of dollars be so desperate for more money that they risked everything in pursuit of even more? They already had unimaginable wealth, prestige, power, freedom. And they threw it all away because they wanted more. They had no sense of enough.
+
+These are extreme examples, of course. But there are non-criminal versions of this behavior. The hedge fund Long-Term Capital Management was staffed with traders personally worth tens and hundreds of millions of dollars each, with most of their wealth invested in their own funds. Then they took so much risk in the quest for more that they managed to lose everything—in 1998, in the middle of the greatest bull market and strongest economy in history.
+
+As Warren Buffett later put it: “To make money they didn’t have and didn’t need, they risked what they did have and did need. And that’s foolish." There is no reason to risk what you have and need for what you don’t have and don’t need. It’s one of those things that’s as obvious as it is overlooked.
+
+If you're one of those who will, at some point in their life, earn a salary or have a sum of money sufficient to cover every reasonable thing you need and a lot of what you want, remember a few things.
+
+First, the hardest financial skill is getting the goalpost to stop moving. If expectations rise with results there is no logic in striving for more because you’ll feel the same after putting in extra effort. It gets dangerous when the taste of having more—more money, more power, more prestige—increases ambition faster than satisfaction. In that case one step forward pushes the goalpost two steps ahead. You feel as if you’re falling behind, and the only way to catch up is to take greater and greater amounts of risk. Modern capitalism is a pro at two things: generating wealth and generating envy. But life isn’t any fun without a sense of enough. Happiness, as it’s said, is just results minus expectations.
+
+Second, remember that social comparison is the problem here. The ceiling of social comparison is so high that virtually no one will ever hit it. It’s a battle that can never be won, or that the only way to win is to not fight to begin with—to accept that you might have enough, even if it’s less than those around you. The only way to win in a Las Vegas casino is to exit as soon as you enter. That’s exactly how the game of trying to keep up with other people’s wealth works, too.
+
+Third, 'enough' is not too little. It might look like conservatism, leaving opportunity and potential on the table. But 'enough' is realizing that the opposite—an insatiable appetite for more—will push you to the point of regret. You can’t stop reaching for more until you break and are forced to. This can be as innocent as burning out at work or a risky investment allocation you can’t maintain. Or you resort to stealing because every dollar is worth reaching for regardless of consequence. Whatever it is, the inability to deny a potential dollar will eventually catch up to you.
+
+Finally, there are many things never worth risking, no matter the potential gain. Reputation is invaluable. Freedom and independence are invaluable. Family and friends are invaluable. Being loved by those who you want to love you is invaluable. Happiness is invaluable. And your best shot at keeping these things is knowing when it’s time to stop taking risks that might harm them. Knowing when you have enough.
+
+The good news is that the most powerful tool for building enough is remarkably simple, and doesn’t require taking risks that could damage any of these things. And that, my friends, is our next subject.
+
+
+## 4. The Power of Compounding: Patience as the Ultimate Financial Superpower
+
+Let's explore a phenomenon that often defies our intuitive understanding: the power of compounding. It's a concept so profound, it can transform seemingly insignificant beginnings into astonishing results.
+
+John Bogle, the visionary founder of Vanguard, shared a telling anecdote that reveals this power. At a lavish party hosted by a billionaire, the celebrated author Kurt Vonnegut remarked to Joseph Heller, known for his iconic novel *Catch-22*, that the host, a hedge fund manager, earned more in a single day than Heller had earned from his masterpiece throughout its entire publishing history. Heller's insightful response? "Yes, but I have something he will never have… enough."
+
+The essence of this story speaks volumes about the importance of recognizing the power of compounding, and the dangers of insatiable ambition, and the importance of defining 'enough'. You see, at its core, compounding isn't merely about amassing wealth; it's about understanding the profound effect that time has on even the smallest amounts of money that grows.
+
+Imagine an ice age. It begins not with a sudden, dramatic freeze, but with a summer that isn’t quite warm enough to melt the previous winter’s snow. That thin layer of leftover ice becomes a base for more snow, reflecting sunlight and further cooling the environment. This cycle continues, year after year, until a seasonal snowpack transforms into a continental ice sheet.
+
+As glaciologist Gwen Schultz so aptly put it: "It is not necessarily the amount of snow that causes ice sheets but the fact that snow, however little, lasts." The takeaway? You don't need tremendous force to create tremendous results. Compounding is just such a slow, but effective force.
+
+The lesson here is clear: significant gains can emerge from small changes implemented with consistency. Consider the extraordinary tale of Warren Buffett. While he's undoubtedly a brilliant investor, his success hinges on a simple truth: he’s been a phenomenal investor since childhood. Of Buffett's staggering $84.5 billion net worth, a staggering $84.2 billion was accumulated *after* his 50th birthday, and $81.5 billion after he qualified for Social Security.
+
+Now, let’s imagine a different scenario: what if Buffett, instead of starting at age 10, began investing at age 30 with a more typical starting base? Even with his exceptional investment returns, and retiring at 60, he'd have amassed a mere fraction of his actual fortune. The difference? Simply put, time.
+
+In the world of investing, time is your ally. While earning high returns is certainly desirable, it's the consistent application of good returns over a sustained period that truly unlocks the magic of compounding. In fact, Jim Simons, head of Renaissance Technologies, has actually outperformed Buffett, earning an average annual return of 66% since 1988. Yet, Simons' net worth is significantly smaller due to starting later in life.
+
+So, why do we often overlook the potential of compounding? Perhaps it's because our minds are wired for linear thinking, while compounding operates exponentially. Linear thinking is intuitive; exponential thinking requires a shift in perspective. Consider if I asked you to calculate `8+8+8+8+8+8+8+8+8` in your head, you can do it in a few seconds. But what if I asked you to calculate `8x8x8x8x8x8x8x8x8` in your head?
+Now you see.
+
+Bill Gates, despite his technological prowess, once questioned the need for ample storage space, revealing how easily even the most brilliant minds can underestimate exponential growth. This inherent difficulty in grasping the power of compounding often leads us to neglect its potential, focusing instead on solving problems through other, often less effective, means.
+
+Therefore, remember this: Compounding is like planting an oak tree; a year of growth will never show much progress, 10 years can make a meaningful difference, and 50 years can create something absolutely extraordinary.
+It may be responsible for the majority of disappointing trades, bad strategies, and successful investing attempts. This may be why the most powerful and important investment book should be called *Shut Up And Wait*. Just one page with a long-term chart of economic growth.
+
+Good investing isn't necessarily about earning the highest returns, because the highest returns tend to be one-off hits that can't be repeated. It's about earning pretty good returns that you can stick with and which can be repeated for the longest period of time.
+That's when compounding runs wild.
+
+
+## 5. Survival Mentality: Prioritizing Longevity Over Flashy Returns
+
+Welcome back, traveler. We've explored the illusion of control, the role of luck, the perils of insatiable ambition, and the magic of compounding. Now, we arrive at a crucial crossroads on our financial journey: understanding the vital importance of a survival mentality. It's one thing to get wealthy, it's another to stay wealthy.
+
+John Bogle, the founder of Vanguard, shared a story that encapsulates this perfectly. At a lavish party, Kurt Vonnegut remarked to Joseph Heller that their host, a hedge fund manager, had made more money in a single day than Heller earned from *Catch-22* over its lifetime. Heller's response? "Yes, but I have something he will never have… enough."
+
+That simple word, "enough," reveals a profound truth about long-term financial success. It's not about maximizing gains; it's about maximizing your chances of staying in the game.
+
+Let’s consider two cautionary tales, stark reminders of what happens when this principle is ignored.
+
+First, Rajat Gupta. From a humble background in Kolkata, he rose to become CEO of McKinsey, a director of Goldman Sachs, a partner in philanthropy with Bill Gates. By 2008, he was worth an estimated $100 million. But, it wasn't enough. Driven by an insatiable desire to join the "billionaire circle," he engaged in insider trading, sacrificing his reputation and freedom for a fortune he didn't need.
+
+Then, there's Bernie Madoff. Before the infamous Ponzi scheme, Madoff was a legitimately successful market maker, earning millions annually. Yet, driven by a similar thirst for "more," he built a fraudulent empire that ultimately crumbled, destroying countless lives and landing him in prison.
+
+Both Gupta and Madoff possessed immense wealth and power. But their inability to define "enough" led to their downfall. It's a reminder that greed can be a self-destructive force, eclipsing even the most brilliant minds.
+
+These are extreme cases, but the underlying principle applies to all of us. Think of the hedge fund, Long-Term Capital Management. Staffed with millionaires, they risked it all in a quest for even more, ultimately losing everything. As Warren Buffett put it, "To make money they didn’t have and didn’t need, they risked what they did have and did need. And that’s foolish."
+
+So, how do we cultivate this essential survival mentality?
+
+First, recognize that the hardest financial skill is getting the goalpost to stop moving. Ambition is a powerful engine, but unchecked, it can lead to a never-ending cycle of striving and dissatisfaction. Modern capitalism excels at generating both wealth and envy, making it crucial to define your own "enough."
+
+Second, understand that social comparison is a dangerous trap. The ceiling of wealth is so high that virtually no one can reach it. Comparing yourself to others only fuels a sense of inadequacy and encourages risky behavior. The only way to win this game is to not play it.
+
+Third, remember that "enough" is not too little. It's not about settling for mediocrity or leaving opportunities on the table. It's about recognizing that the pursuit of "more" can lead to regret and ultimately, ruin. As the saying goes, the only way to know how much food you can eat is to eat until you're sick. Few try this because vomiting hurts more than any meal is good.
+
+Finally, understand that some things are never worth risking, no matter the potential gain. Reputation, freedom, independence, family, and happiness are invaluable. Your best shot at keeping these things is knowing when it's time to stop taking risks that might harm them. Knowing when you have enough.
+
+The fascinating thing is, the most powerful tool for building "enough" is remarkably simple. It’s called saving, and it's the topic we'll explore next.
+
+But for now, let's reflect on what we've learned. It’s about prioritizing longevity over fleeting gains. It's about recognizing the limits of ambition and the dangers of social comparison. And, above all, it's about knowing when you have enough, and protecting the things that truly matter. It's about surviving to thrive.
+
+
+## 6. The Long Tail of Success: Accepting Imperfection and Embracing Outliers
+
+We've explored how survival is paramount and patience is powerful. But now, let's talk about imperfection. Let's talk about embracing the unexpected and accepting that, in the world of money, "Tails, You Win."
+
+Heinz Berggruen fled Nazi Germany with nothing. He studied literature. Not finance, not art history, but literature. Yet, decades later, he amassed one of the most successful art collections of all time. He sold part of it for over 100 million euros. The private market value? Well over a billion.
+
+How? Skill? Luck? Perhaps. But Horizon Research offered a perspective. They said, "The great investors bought vast quantities of art…A subset of the collections turned out to be great investments, and they were held for a sufficiently long period of time to allow the portfolio return to converge upon the return of the best elements in the portfolio. That's all that happens."
+
+They operated like index funds. They bought everything they could. They sat and waited for a few winners to emerge. Imagine if 99% of what you invested in turned out to be worth little. Would that matter if the other 1% turned out to be a Picasso?
+
+This, my friends, is the concept of long tails. It's where a small number of events account for the majority of outcomes. "Long tails...have tremendous influence in finance, where a small number of events can account for the majority of outcomes."
+
+It's not intuitive. It defies our linear thinking. We underestimate how normal it is for things to fail. And when they do, we overreact.
+
+Take Walt Disney. After 400 cartoons, most lost a fortune. Then came Snow White. One movie, 83 minutes, and Disney Studios was transformed.
+
+This phenomenon permeates various industries. Venture capital expects a large percentage of investments to fail. But the few bonanzas drive the entire fund's returns. Even in public stocks, the Russell 3000 Index reveals that forty percent of all components lost at least 70% of their value and never recovered. "Effectively all of the index's overall returns came from 7% of component companies that outperformed by at least two standard deviations." Even public utilities, seen as paragons of stability, show a failure rate.
+
+Consider Carolco, the studio behind Rambo and Terminator 2. It went public, churned out hits, then failed. Stock gone. Wiped out. A catastrophic loss, but one that 4 in 10 public companies experience over time.
+
+Here's the critical point. The Russell 3000 has increased more than 73-fold since 1980. The spectacular return came with a hefty price tag of inevitable failures. Just like Heinz Berggruen, the art dealer, but with Microsoft and Walmart instead of Picasso and Matisse.
+
+This effect permeates individual companies as well. Think about Amazon and Apple.
+
+"In 2017, Amazon drove 6% of the S&P 500's returns. And Amazon's growth is almost entirely due to Prime and Amazon Web Services, which itself are tail events in a company that has experimented with hundreds of products." The success of these companies isn't only a few events, but it took tail careers to make them! The idea that only a few account for most results isn't only true for companies in your portfolio, it is an important part of your behavior as an investor.
+
+Napoleon’s definition of a military genius was, “The man who can do the average thing when all those around him are going crazy.” Apply that principle to your investments, and understand that over your lifetime the decisions you make today may not matter nearly as much as what you do when everyone around you is losing their minds.
+
+What if you saved $1 every month from 1900 to 2019, investing rain or shine? You'd end up far richer than someone trying to time the market. Success lies in how you respond to moments of terror, not years of cruise control.
+
+Recognize that "tails drive everything. When you accept that tails drive everything in business, investing, and finance you realize that it's normal for lots of things to go wrong, break, fail, and fall."
+
+Even the greats aren't always right. As Peter Lynch said, "If you’re terrific in this business, you’re right six times out of 10."
+
+Consider Jeff Bezos' view on Amazon's failures. "If you think that's a big failure, we're working on much bigger failures right now."
+
+The comedian Chris Rock prepares for a netflix special in dozens of small clubs each year, to test Jokes that make it on Netflix are the "tails" of hundreds of attempts. This happens in investing, too.
+
+It’s easy to find Warren Buffett’s net worth, or his average annual returns. Or even his best, most notable investments. They’re right there in the open, and they’re what people talk about. It’s much harder to piece together every investment he’s made over his career. No one talks about the dud picks, the ugly businesses, the poor acquisitions. But they’re a big part of Buffett’s story. They are the other side of tail-driven returns.
+
+As Warren Buffett said in 2013, he's made most of his money on 10 stocks. His partner, Charlie Munger, said that if you remove just a few of Berkshire’s top investments, its long-term track record is pretty average.
+
+George Soros said, "It's not whether you're right or wrong that's important, but how much money you make when you're right and how much you lose when you're wrong."
+
+Therefore, embrace imperfection. You can be wrong half the time and still make a fortune. It's about positioning yourself to capture those long tails.
+
+You, reading these words, are the result of the longest tail imaginable. That's something to be happy about.
+
+Now, let's look at how money can make you even happier.
+
+
+## 7. Time Autonomy: The Highest Dividend Money Pays and its modern challenges
+
+The highest form of wealth is the ability to wake up every morning and say, “I can do whatever I want today.” Think about that.
+
+People want to become wealthier to make them happier, and while happiness is complex, isn't the ability to control one's life a universal desire? To do what you want, when you want, with who you want, for as long as you want – that’s priceless. That is, arguably, the highest dividend money pays.
+
+Angus Campbell, a psychologist at the University of Michigan, dedicated his work to understanding what makes people happy. He found that the strongest predictor of well-being wasn't salary, house size, or job prestige, but rather, "having a strong sense of controlling one’s life."
+
+More than anything else, money's greatest intrinsic value lies in its power to grant you control over your time. It’s about obtaining, bit by bit, a level of independence and autonomy. It comes from unspent assets, giving you greater control over what you can do and when you can do it.
+
+Think of it: a small amount of wealth means the ability to take a few days off work when you're sick without breaking the bank. A bit more means waiting for a good job to come along after you get laid off, rather than having to take the first one you find. Six months’ emergency expenses means not being terrified of your boss, because you know you won’t be ruined if you have to take some time off to find a new job. Even more still means the ability to take a job with lower pay but flexible hours, maybe one with a shorter commute. Or being able to deal with a medical emergency without the added burden of worrying about how you’ll pay for it. Then, ultimately, there’s retiring when you want to, instead of when you need to. Using your money to buy time and options has a lifestyle benefit few luxury goods can compete with.
+
+Throughout college, one of the writers of this book wanted to be an investment banker. There was only one reason why: they made a lot of money. That was the only drive, and one he was 100% positive would make him happier once he got it. He got a summer internship at an investment bank in Los Angeles in his junior year, and thought he won the career lottery. This is all I ever wanted. On his first day, he realized why investment bankers make a lot of money: They work longer and more controlled hours than he knew humans could handle. Going home before midnight was considered a luxury, and there was a saying in the office: “If you don’t come to work on Saturday, don’t bother coming back on Sunday.” The job was intellectually stimulating, paid well, and made me feel important. But every waking second of his time became a slave to his boss’s demands, which was enough to turn it into one of the most miserable experiences of his life. It was a four-month internship. He lasted a month.
+
+The hardest thing about this was that he loved the work, and I wanted to work hard. But doing something you love on a schedule you can’t control can feel the same as doing something you hate. Psychologists call it reactance. When we try to get them to do something, they feel disempowered. Rather than feeling like they made the choice, they feel like we made it for them. So they say no or do something else, even when they might have originally been happy to go along.
+
+So, when you accept how true that statement is, you realize that aligning money toward a life that lets you do what you want, when you want, with who you want, where you want, for as long as you want, has incredible return.
+
+The United States is the richest nation in the history of the world. But there is little evidence that its citizens are, on average, happier today than they were in the 1950s, when wealth and income were much lower—even at the median level and adjusted for inflation. Why?
+
+Part of what’s happened here is that we’ve used our greater wealth to buy bigger and better stuff. But we’ve simultaneously given up more control over our time. At best, those things cancel each other out.
+
+More and more of us now have jobs that require constant mental engagement, blurring the lines between work and leisure. Even when we're not physically at work, the mental demands persist, making it feel like work never truly ends. Compared to generations prior, control over your time has diminished. And since controlling your time is such a key happiness influencer, we shouldn’t be surprised that people don’t feel much happier even though we are, on average, richer than ever.
+
+So, what can we do about it? It’s not an easy problem to solve, because everyone’s different. The first step is merely acknowledging what does, and does not, make almost everyone happy. We must be reminded: No one said that to be happy you should try to work as hard as you can to make money to buy the things you want. No one said it’s important to be at least as wealthy as the people around you, and if you have more than they do it’s real success. No one said you should choose your work based on your desired future earning power.
+
+What people truly value are things like quality friendships, being part of something bigger than themselves, and spending quality, unstructured time with their children. As someone once wrote, “Your kids don’t want your money (or what your money buys) anywhere near as much as they want you. Specifically, they want you with them.”
+
+Take it from those who have lived through everything: Controlling your time is the highest dividend money pays.
+
+
+## 8. The Wealth Illusion: Distinguishing Between 'Rich' and 'Wealthy'
+
+Let's talk about a wealth illusion, a trick of perception that can profoundly affect your financial life. It might even make you rethink what you believe about success and how you measure it.
+
+Think about the "Man in the Car Paradox," as I call it. When you see someone driving a fancy car, you rarely think, "Wow, the person driving that car is cool." Instead, you think, "Wow, if I had that car, people would think *I'm* cool."
+
+It's a subtle distinction, but it reveals a fundamental truth about how we perceive wealth and status. We tend to want wealth to signal to others that we should be liked and admired. But in reality, those other people often bypass admiring *you*, not because they don't think wealth is admirable, but because they use your wealth as a benchmark for *their own* desire to be liked and admired.
+
+I once wrote a letter to my son that said, "You might think you want an expensive car, a fancy watch, and a huge house. But I’m telling you, you don’t. What you want is respect and admiration from other people, and you think having expensive stuff will bring it. It almost never does—especially from the people you want to respect and admire you."
+
+This illusion, this misplaced focus on outward appearances, can lead to some seriously flawed financial decisions. It can tempt you to spend money you don't have on things you don't need, all in the pursuit of an admiration that often never materializes. If respect and admiration are your goal, be careful how you seek it. Humility, kindness, and empathy will bring you more respect than horsepower ever will.
+
+But this is just the beginning. What I want to explore goes deeper than just possessions. Here's a more important truth: **Wealth is what you *don't* see.**
+
+My time as a valet in Los Angeles gave me a front-row seat to this phenomenon. I saw people driving incredibly expensive cars, and I often made the assumption that they were rich. But as I got to know some of these people, I realized that wasn't always the case. Many were just mediocre successes who spent a huge percentage of their paycheck on a car. Every assumption you might have had about them was wrong.
+
+Someone driving a $100,000 car *might* be wealthy. But the only data point you have about their wealth is that they have $100,000 less than they did before they bought the car (or $100,000 more in debt). That’s all you *know* about them.
+
+Modern capitalism, sadly, makes faking it until you make it a cherished industry. But the truth is that wealth is the nice cars not purchased. The diamonds not bought. The watches not worn, the clothes forgone and the first-class upgrade declined. Wealth is financial assets that haven’t yet been converted into the stuff you see. It's delayed gratification.
+
+That’s not how we *think* about wealth, because you can’t contextualize what you can’t see. You see the result. But you don't see what's been sacrificed.
+
+Singer Rihanna nearly went bankrupt after overspending and sued her financial advisor. The advisor responded: “Was it really necessary to tell her that if you spend money on things, you will end up with the things and not the money?”
+
+You can laugh, and please do. But the answer is, yes, people do need to be told that. When most people say they want to be a millionaire, what they might actually mean is “I’d like to *spend* a million dollars.” And that is literally the opposite of *being* a millionaire.
+
+So, how do we truly define wealth, and how do we differentiate it from being merely rich? It's an essential question. It gets to the heart of what we *really* want from money.
+
+Rich is a current income. Someone driving a $100,000 car is almost certainly rich, because even if they purchased the car with debt, you need a certain level of income to afford the monthly payment. Same with those who live in big homes. It’s not hard to spot rich people. They often go out of their way to make themselves known. But wealth is hidden. It’s income *not* spent. Wealth is an option not yet taken to buy something later. Its value lies in offering you options, flexibility, and growth to one day purchase more stuff than you could right now.
+
+Bill Mann once wrote: “There is no faster way to feel rich than to spend lots of money on really nice things. But the way to be rich is to spend money you have, and to not spend money you don’t have. It’s really that simple.”
+
+It is excellent advice, but it may not go far enough. The only way to be wealthy is to not spend the money that you do have. It’s not just the only way to accumulate wealth; it’s the very definition of wealth.
+
+Remember Ronald Read, the janitor who amassed an $8 million fortune? He was the epitome of wealthy, but he wasn't outwardly rich. He lived modestly, drove an old car, and didn't flaunt his success. On the other hand, you have people who are outwardly rich, but deeply in debt and living paycheck to paycheck, one missed payment away from disaster.
+
+The problem for many of us is that it is easy to find rich role models. It’s harder to find wealthy ones because by definition their success is more hidden.
+
+What does all of this mean for you? It means being honest with yourself about what you truly want from money. Is it the fleeting admiration that comes from outward displays of wealth, or is it the deeper security and freedom that comes from true wealth?
+
+It's okay to admire a beautiful car, but be aware of the Man in the Car Paradox and always remember the illusion, and then ask yourself. Do I want to be rich, or wealthy. It's okay to want to live a comfortable lifestyle, but be conscious of the lifestyle creep that can erode your savings and push you further away from financial independence.
+
+The world is filled with people who look modest but are actually wealthy and people who look rich who live at the razor’s edge of insolvency. Keep this in mind when quickly judging others’ success and setting your own goals. And remember that you don't have to choose to impress others over your own happiness.
+
+If wealth is what you don’t spend, what good is it? Well, let me convince you to save money. That's our next step on this journey. We will consider a plan where you aren't striving to look rich, but instead, focused on the security of savings.
+
+
+## 9. Saving: The Foundation of Financial Independence
+
+Let me convince you to save money. It won’t take long. But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do. Past a certain level of income people fall into three groups: Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter two.
+
+The first idea—simple, but easy to overlook—is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate. A quick story about the power of efficiency.
+
+In the 1970s the world looked like it was running out of oil. The calculation wasn’t hard: The global economy used a lot of oil, the global economy was growing, and the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil, or even got better at taking it out of the ground. The biggest reason we overcame the oil crisis is because we started building cars, factories, and homes that are more energy efficient than they used to be.
+
+The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975.
+
+The world grew its "energy wealth" not by increasing the energy it had, but by decreasing the energy it needed. U.S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So it’s easy to see which has mattered more.
+
+The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty, because it relies on a slippery mix of having the right geology, geography, weather, and geopolitics. But becoming more efficient with the energy we use is largely in our control. The decision to buy a lighter car or ride a bike is up to you and has a 100% chance of improving efficiency.
+
+The same is true with our money. Investment returns can make you rich. But whether an investing strategy will work, and how long it will work for, and whether markets will cooperate, is always in doubt. Results are shrouded in uncertainty. Personal savings and frugality—finance’s conservation and efficiency—are parts of the money equation that are more in your control and have a 100% chance of being as effective in the future as they are today.
+
+If you view building wealth as something that will require more money or big investment returns, you may become as pessimistic as the energy doomers were in the 1970s. The path forward looks hard and out of your control. If you view it as powered by your own frugality and efficiency, the destiny is clearer.
+
+Wealth is just the accumulated leftovers after you spend what you take in. And since you can build wealth without a high income, but have no chance of building wealth without a high savings rate, it’s clear which one matters more.
+
+More importantly, the value of wealth is relative to what you need. Say you and I have the same net worth. And say you’re a better investor than me. I can earn 8% annual returns and you can earn 12% annual returns. But I’m more efficient with my money. Let’s say I need half as much money to be happy while your lifestyle compounds as fast as your assets. I’m better off than you are, despite being a worse investor. I’m getting more benefit from my investments despite lower returns.
+
+The same is true for incomes. Learning to be happy with less money creates a gap between what you have and what you want—similar to the gap you get from growing your paycheck, but easier and more in your control.
+
+A high savings rate means having lower expenses than you otherwise could, and having lower expenses means your savings go farther than they would if you spent more. Think about this in the context of how much time and effort goes into achieving 0.1% of annual investment outperformance—millions of hours of research, tens of billions of dollars of effort from professionals—and it’s easy to see what’s potentially more important or worth chasing.
+
+There are professional investors who grind 80 hours a week to add a tenth of a percentage point to their returns when there are two or three full percentage points of lifestyle bloat in their finances that can be exploited with less effort.
+
+Big investment returns and fat paychecks are amazing when they can be achieved, and some can achieve them. But the fact that there’s so much effort put into one side of the finance equation and so little put into the other is an opportunity for most people.
+
+Past a certain level of income, what you need is just what sits below your ego. Everyone needs the basics. Once they’re covered there’s another level of comfortable basics, and past that there’s basics that are both comfortable, entertaining, and enlightening. But spending beyond a pretty low level of materialism is mostly a reflection of ego approaching income, a way to spend money to show people that you have (or had) money.
+
+Think of it like this, and one of the most powerful ways to increase your savings isn’t to raise your income. It’s to raise your humility. When you define savings as the gap between your ego and your income you realize why many people with decent incomes save so little. It’s a daily struggle against instincts to extend your peacock feathers to their outermost limits and keep up with others doing the same.
+
+People with enduring personal finance success—not necessarily those with high incomes—tend to have a propensity to not give a damn what others think about them. So people’s ability to save is more in their control than they might think. Savings can be created by spending less. You can spend less if you desire less. And you will desire less if you care less about what others think of you. As I argue often in this book, money relies more on psychology than finance.
+
+And you don’t need a specific reason to save. Some people save money for a downpayment on a house, or a new car, or for retirement. That’s great, of course. But saving does not require a goal of purchasing something specific. You can save just for saving’s sake. And indeed you should. Everyone should.
+
+Only saving for a specific goal makes sense in a predictable world. But ours isn’t. Saving is a hedge against life’s inevitable ability to surprise the hell out of you at the worst possible moment.
+
+Another benefit of savings that isn’t attached to a spending goal is what we discussed in chapter 7: gaining control over your time. Everyone knows the tangible stuff money buys. The intangible stuff is harder to wrap your head around, so it tends to go unnoticed. But the intangible benefits of money can be far more valuable and capable of increasing your happiness than the tangible things that are obvious targets of our savings.
+
+Savings without a spending goal gives you options and flexibility, the ability to wait and the opportunity to pounce. It gives you time to think. It lets you change course on your own terms. Every bit of savings is like taking a point in the future that would have been owned by someone else and giving it back to yourself. That flexibility and control over your time is an unseen return on wealth.
+
+What is the return on cash in the bank that gives you the option of changing careers, or retiring early, or freedom from worry? I’d say it’s incalculable. It’s incalculable in two ways. It’s so large and important that we can’t put a price on it. But it’s also literally incalculable—we can’t measure it like we can measure interest rates—and what we can’t measure we tend to overlook.
+
+When you don’t have control over your time, you’re forced to accept whatever bad luck is thrown your way. But if you have flexibility you have the time to wait for no-brainer opportunities to fall in your lap. This is a hidden return on your savings.
+
+Savings in the bank that earn 0% interest might actually generate an extraordinary return if they give you the flexibility to take a job with a lower salary but more purpose, or wait for investment opportunities that come when those without flexibility turn desperate. And that hidden return is becoming more important.
+
+The world used to be hyper-local. Just over 100 years ago 75% of Americans had neither telephones nor regular mail service, according to historian Robert Gordon. That made competition hyper-local. A worker with just average intelligence might be the best in their town, and they got treated like the best because they didn’t have to compete with the smarter worker in another town.
+
+That’s now changed. A hyper-connected world means the talent pool you compete in has gone from hundreds or thousands spanning your town to millions or billions spanning the globe. This is especially true for jobs that rely on working with your head versus your muscles: teaching, marketing, analysis, consulting, accounting, programming, journalism, and even medicine increasingly compete in global talent pools. More fields will fall into this category as digitization erases global boundaries—as “software eats the world,” as venture capitalist Marc Andreesen puts it.
+
+A question you should ask as the range of your competition expands is, “How do I stand out?” “I’m smart” is increasingly a bad answer to that question, because there are a lot of smart people in the world. Almost 600 people ace the SATs each year. Another 7,000 come within a handful of points. In a winner-take-all and globalized world these kinds of people are increasingly your direct competitors. Intelligence is not a reliable advantage in a world that’s become as connected as ours has. But flexibility is.
+
+In a world where intelligence is hyper-competitive and many previous technical skills have become automated, competitive advantages tilt toward nuanced and soft skills—like communication, empathy, and, perhaps most of all, flexibility. If you have flexibility you can wait for good opportunities, both in your career and for your investments. You’ll have a better chance of being able to learn a new skill when it’s necessary. You’ll feel less urgency to chase competitors who can do things you can’t, and have more leeway to find your passion and your niche at your own pace. You can find a new routine, a slower pace, and think about life with a different set of assumptions.
+
+The ability to do those things when most others can’t is one of the few things that will set you apart in a world where intelligence is no longer a sustainable advantage. Having more control over your time and options is becoming one of the most valuable currencies in the world. That’s why more people can, and more people should, save money.
+
+You know what else they should do? Stop trying to be so rational. Let me tell you why.
+
+
+## 10. Reasonable Over Rational: Finding the Balance Between Logic and Emotion
+
+You're not a spreadsheet. You’re a person. A screwed up, emotional person. It took me a while to figure this out, but once it clicked I realized it’s one of the most important parts of finance. With it comes something that often goes overlooked: Do not aim to be coldly rational when making financial decisions. Aim to just be pretty reasonable. Reasonable is more realistic and you have a better chance of sticking with it for the long run, which is what matters most when managing money.
+
+To show you what I mean, let me tell you the story of a guy who tried to cure syphilis with malaria. Julius Wagner-Jauregg was a 19th-century psychiatrist with two unique skills: He was good at recognizing patterns, and what others saw as “crazy” he found merely “bold.” His specialty was patients with severe neurosyphilis—then a fatal diagnosis with no known treatment. He began noticing a pattern: syphilis patients tended to recover if they had the added misfortune of having prolonged fevers from an unrelated ailment. Wagner-Jauregg assumed this was due to a hunch that had been around for centuries but doctors didn’t understand well: fevers play a role in helping the body fight infection. So he jumped to the logical conclusion.
+
+In the early 1900s Wagner-Jauregg began injecting patients with low-end strains of typhoid, malaria, and smallpox to trigger fevers strong enough to kill off their syphilis. This was as dangerous as it sounds. Some of his patients died from the treatment. He eventually settled on a weak version of malaria, since it could be effectively countered with quinine after a few days of bone-rattling fevers. After some tragic trial and error his experiment worked. Wagner-Jauregg reported that 6 in 10 syphilis patients treated with “malariotherapy” recovered, compared to around 3 in 10 patients left alone. He won the Nobel Prize in medicine in 1927. The organization today notes: “The main work that concerned Wagner-Jauregg throughout his working life was the endeavour to cure mental disease by inducing a fever.”
+
+Penicillin eventually made malariotherapy for syphilis patients obsolete, thank goodness. But Wagner-Jauregg is one of the only doctors in history who not only recognized fever’s role in fighting infection, but also prescribed it as a treatment. Fevers have always been as feared as they are mysterious. Ancient Romans worshiped Febris, the Goddess who protected people from fevers. Amulets were left at temples to placate her, hoping to stave off the next round of shivers. But Wagner-Jauregg was onto something. Fevers are not accidental nuisances. They do play a role in the body’s road to recovery. We now have better, more scientific evidence of fever’s usefulness in fighting infection.
+
+A one-degree increase in body temperature has been shown to slow the replication rate of some viruses by a factor of 200. “Numerous investigators have identified a better outcome among patients who displayed fever,” one NIH paper writes. The Seattle Children’s Hospital includes a section on its website to educate parents who may panic at the slightest rise in their child’s temperature: “Fevers turn on the body’s immune system. They help the body fight infection. Normal fevers between 100° and 104° f are good for sick children.”
+
+But that’s where the science ends and reality takes over. Fever is almost universally seen as a bad thing. They’re treated with drugs like Tylenol to reduce them as quickly as they appear. Despite millions of years of evolution as a defense mechanism, no parent, no patient, few doctors, and certainly no drug company views fever as anything but a misfortune that should be eliminated. These views do not match the known science. One study was blunt: “Treatment of fever is common in the ICU setting and likely related to standard dogma rather than evidence-based practice.” Howard Markel, director of the Center for the History of Medicine, once said of fever phobia: “These are cultural practices that spread just as widely as the infectious diseases that are behind them.”
+
+Why does this happen? If fevers are beneficial, why do we fight them so universally? I don’t think it’s complicated: Fevers hurt. And people don’t want to hurt. That’s it. A doctor’s goal is not just to cure disease. It’s to cure disease within the confines of what’s reasonable and tolerable to the patient. Fevers can have marginal benefits in fighting infection, but they hurt. And I go to the doctor to stop hurting. I don’t care about double-blind studies when I’m shivering under a blanket. If you have a pill that can make a fever stop, give it to me now. It may be rational to want a fever if you have an infection. But it’s not reasonable.
+
+That philosophy—aiming to be reasonable instead of rational—is one more people should consider when making decisions with their money. Academic finance is devoted to finding the mathematically optimal investment strategies. My own theory is that, in the real world, people do not want the mathematically optimal strategy. They want the strategy that maximizes for how well they sleep at night.
+
+Harry Markowitz won the Nobel Prize for exploring the mathematical tradeoff between risk and return. He was once asked how he invested his own money, and described his portfolio allocation in the 1950s, when his models were first developed: I visualized my grief if the stock market went way up and I wasn’t in it—or if it went way down and I was completely in it. My intention was to minimize my future regret. So I split my contributions 50/50 between bonds and equities.
+
+Markowitz eventually changed his investment strategy, diversifying the mix. But two things here are important. One is that “minimizing future regret” is hard to rationalize on paper but easy to justify in real life. A rational investor makes decisions based on numeric facts. A reasonable investor makes them in a conference room surrounded by co-workers you want to think highly of you, with a spouse you don’t want to let down, or judged against the silly but realistic competitors that are your brother-in-law, your neighbor, and your own personal doubts. Investing has a social component that’s often ignored when viewed through a strictly financial lens.
+
+The second is that this is fine. Jason Zweig, who conducted the interview when Markowitz described how he invested, later reflected: My own view is that people are neither rational nor irrational. We are human. We don’t like to think harder than we need to, and we have unceasing demands on our attention. Seen in that light, there’s nothing surprising about the fact that the pioneer of modern portfolio theory built his initial portfolio with so little regard for his own research. Nor is it surprising that he adjusted it later.
+
+Markowitz is neither rational or irrational. He’s reasonable. What’s often overlooked in finance is that something can be technically true but contextually nonsense. In 2008 a pair of researchers from Yale published a study arguing young savers should supercharge their retirement accounts using two-to-one margin when buying stocks. It suggests investors taper that leverage as they age, which lets a saver take more risk when they’re young and can handle a magnified market rollercoaster, and less when they’re older. Even if using leverage left you wiped out when you were young, the researchers showed savers would still be better off in the long run so long as they picked themselves back up, followed the plan, and kept saving in a two-to-one leveraged account the day after being wiped out. The math works on paper. It’s a rational strategy. But it’s almost absurdly unreasonable. No normal person could watch 100% of their retirement account evaporate and be so unfazed that they carry on with the strategy undeterred.
+
+They’d quit, look for a different option, and perhaps sue their financial advisor. The researchers argued that when using their strategy “the expected retirement wealth is 90% higher compared to life-cycle funds.” It is also 100% less reasonable. There is, in fact, a rational reason to favor what look like irrational decisions. Here’s one: Let me suggest that you love your investments. This is not traditional advice. It’s almost a badge of honor for investors to claim they’re emotionless about their investments, because it seems rational. But if lacking emotions about your strategy or the stocks you own increases the odds you’ll walk away from them when they become difficult, what looks like rational thinking becomes a liability. The reasonable investors who love their technically imperfect strategies have an edge, because they’re more likely to stick with those strategies.
+
+There are few financial variables more correlated to performance than commitment to a strategy during its lean years—both the amount of performance and the odds of capturing it over a given period of time. The historical odds of making money in U.S. markets are 50/50 over one-day periods, 68% in one-year periods, 88% in 10-year periods, and 100% in 20-year periods. Anything that keeps you in the game has a quantifiable advantage.
+
+If you view “do what you love” as a guide to a happier life, it sounds like empty fortune cookie advice. If you view it as the thing providing the endurance necessary to put the quantifiable odds of success in your favor, you realize it should be the most important part of any financial strategy. Invest in a promising company you don’t care about, and you might enjoy it when everything’s going well. But when the tide inevitably turns you’re suddenly losing money on something you’re not interested in. It’s a double burden, and the path of least resistance is to move onto something else. If you’re passionate about the company to begin with—you love the mission, the product, the team, the science, whatever—the inevitable down times when you’re losing money or the company needs help are blunted by the fact that at least you feel like you’re part of something meaningful. That can be the necessary motivation that prevents you from giving up and moving on.
+
+There are several other times when it’s fine to be reasonable instead of rational with money. There’s a well-documented “home bias,” where people prefer to invest in companies from the country they live in while ignoring the other 95%+ of the planet. It’s not rational, until you consider that investing is effectively giving money to strangers. If familiarity helps you take the leap of faith required to remain backing those strangers, it’s reasonable. Day trading and picking individual stocks is not rational for most investors—the odds are heavily against your success. But they’re both reasonable in small amounts if they scratch an itch hard enough to leave the rest of your more diversified investments alone. Investor Josh Brown, who advocates and mostly owns diversified funds, once explained why he also owns a smattering of individual stocks: “I’m not buying individual stocks because I think I’m going to generate alpha. I just love stocks and have ever since I was 20 years old. And it’s my money, I get to do whatever.” Quite reasonable.
+
+Most forecasts about where the economy and the stock market are heading next are terrible, but making forecasts is reasonable. It’s hard to wake up in the morning telling yourself you have no clue what the future holds, even if it’s true. Acting on investment forecasts is dangerous. But I get why people try to predict what will happen next year. It’s human nature. It’s reasonable. Jack Bogle, the late founder of Vanguard, spent his career on a crusade to promote low-cost passive index investing. Many thought it interesting that his son found a career as an active, high-fee hedge fund and mutual fund manager. Bogle—the man who said high-fee funds violate “the humble rules of arithmetic”—invested some of his own money in his son’s funds. What’s the explanation? “We do some things for family reasons,” Bogle told The Wall Street Journal. “If it’s not consistent, well, life isn’t always consistent.”
+
+Indeed, it rarely is. Now, let's consider how unexpected events affect your thinking.
+
+
+## 11. Embracing Surprise: Why History is Not a Reliable Predictor of the Future
+
+Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall: “Things that have never happened before happen all the time.”
+
+History is mostly the study of surprising events. But it is often used by investors and economists as an unassailable guide to the future. Do you see the irony? Do you see the problem?
+
+It is smart to have a deep appreciation for economic and investing history. History helps us calibrate our expectations, study where people tend to go wrong, and offers a rough guide of what tends to work. But it is not, in any way, a map of the future.
+
+A trap many investors fall into is what I call “historians as prophets” fallacy: An overreliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress.
+
+You can't blame investors for doing this. If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves. So can meteorologists. And doctors—kidneys operate the same way in 2020 as they did in 1020.
+
+But investing is not a hard science. It's a massive group of people making imperfect decisions with limited information about things that will have a massive impact on their wellbeing, which can make even smart people nervous, greedy and paranoid. Richard Feynman, the great physicist, once said, “Imagine how much harder physics would be if electrons had feelings.” Well, investors have feelings. Quite a few of them. That's why it's hard to predict what they'll do next based solely on what they did in the past.
+
+The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely. Investor Bill Bonner once described how Mr. Market works: “He’s got a ‘Capitalism at Work’ T-shirt on and a sledgehammer in his hand.”
+
+Few things stay the same for very long, which means we can’t treat historians as prophets. The most important driver of anything tied to money is the stories people tell themselves and the preferences they have for goods and services. Those things don’t tend to sit still. They change with culture and generation. They’re always changing and always will.
+
+The mental trick we play on ourselves here is an over-admiration of people who have been there, done that, when it comes to money. Experiencing specific events does not necessarily qualify you to know what will happen next. In fact it rarely does, because experience leads to overconfidence more than forecasting ability. Investor Michael Batnick once explained this well.
+
+Confronted with the argument that few investors are prepared for rising interest rates because they’ve never experienced them—the last big period of rising interest rates occurred almost 40 years ago—he argued that it didn’t matter, because experiencing or even studying what happened in the past might not serve as any guide to what will happen when rates rise in the future:
+
+So what? Will the current rate hike look like the last one, or the one before that? Will different asset classes behave similarly, the same, or the exact opposite? On the one hand, people that have been investing through the events of 1987, 2000 and 2008 have experienced a lot of different markets. On the other hand, isn’t it possible that this experience can lead to overconfidence? Failing to admit you’re wrong? Anchoring to previous outcomes?
+
+Two dangerous things happen when you rely too heavily on investment history as a guide to what’s going to happen next.
+
+One, you’ll likely miss the outlier events that move the needle the most. The most important events in historical data are the big outliers, the record-breaking events. They are what move the needle in the economy and the stock market. The Great Depression. World War II. The dot-com bubble. September 11th. The housing crash of the mid-2000s. A handful of outlier events play an enormous role because they influence so many unrelated events in their wake.
+Fifteen billion people were born in the 19th and 20th centuries. But try to imagine how different the global economy—and the whole world—would be today if just seven of them never existed: Adolf Hitler, Joseph Stalin, Mao Zedong, Gavrilo Princip, Thomas Edison, Bill Gates, Martin Luther King. I’m not even sure that’s the most meaningful list. But almost everything about the world today—from borders to technology to social norms—would be different if these seven people hadn’t left their mark.
+
+Another way to put this is that 0.00000000004% of people were responsible for perhaps the majority of the world’s direction over the last century. The same goes for projects, innovations, and events.
+Imagine the last century without: The Great Depression, World War II, The Manhattan Project, Vaccines, Antibiotics, ARPANET, September 11th, The fall of the Soviet Union.
+How many projects and events occurred in the 20th century? Billions, trillions—who knows. But those eight alone impacted the world orders upon orders of magnitude more than others.
+
+The thing that makes tail events easy to underappreciate is how easy it is to underestimate how things compound. How, for example, 9/11 prompted the Federal Reserve to cut interest rates, which helped drive the housing bubble, which led to the financial crisis, which led to a poor jobs market, which led tens of millions to seek a college education, which led to $1.6 trillion in student loans with a 10.8% default rate. It’s not intuitive to link 19 hijackers to the current weight of student loans, but that’s what happens in a world driven by a few outlier tail events.
+
+The majority of what’s happening at any given moment in the global economy can be tied back to a handful of past events that were nearly impossible to predict. The most common plot of economic history is the role of surprises. The reason surprises occur is not because our models are wrong or our intelligence is low. It’s because the odds that Adolf Hitler’s parents argued on the evening nine months before he was born were the same as them conceiving a child. Technology is hard to predict because Bill Gates may have died from polio if Jonas Salk got cranky and gave up on his quest to find a vaccine. The reason we couldn’t predict the student loan growth is because an airport security guard may have confiscated a hijacker’s knife on 9/11. That’s all there is to it.
+
+The problem is that we often use events like the Great Depression and World War II to guide our views of things like worst-case scenarios when thinking about future investment returns. But those record-setting events had no precedent when they occurred. So the forecaster who assumes the worst (and best) events of the past will match the worst (and best) events of the future is not following history; they’re accidentally assuming that the history of unprecedented events doesn’t apply to the future.
+
+Nassim Taleb writes in his book Fooled By Randomness: In Pharaonic Egypt … scribes tracked the high-water mark of the Nile and used it as an estimate for a future worst-case scenario. The same can be seen in the Fukushima nuclear reactor, which experienced a catastrophic failure in 2011 when a tsunami struck. It had been built to withstand the worst past historical earthquake, with the builders not imagining much worse—and not thinking that the worst past event had to be a surprise, as it had no precedent. This is not a failure of analysis. It’s a failure of imagination.
+
+Realizing the future might not look anything like the past is a special kind of skill that is not generally looked highly upon by the financial forecasting community. At a 2017 dinner I attended in New York, Daniel Kahneman was asked how investors should respond when our forecasts are wrong. He said:
+
+Whenever we are surprised by something, even if we admit that we made a mistake, we say, ‘Oh I’ll never make that mistake again.’ But, in fact, what you should learn when you make a mistake because you did not anticipate something is that the world is difficult to anticipate.
+
+That’s the correct lesson to learn from surprises: that the world is surprising. Not that we should use past surprises as a guide to future boundaries; that we should use past surprises as an admission that we have no idea what might happen next. The most important economic events of the future—things that will move the needle the most—are things that history gives us little to no guide about. They will be unprecedented events. Their unprecedented nature means we won’t be prepared for them, which is part of what makes them so impactful. This is true for both scary events like recessions and wars, and great events like innovation. I’m confident in that prediction because surprises moving the needle the most is the one forecast that’s been accurate at virtually every point in history.
+
+Two, history can be a misleading guide to the future of the economy and stock market because it doesn’t account for structural changes that are relevant to today’s world. Consider a few big ones.
+
+The 401(k) is 42 years old. The Roth IRA is younger, created in the 1990s. So personal financial advice and analysis about how Americans save for retirement today is not directly comparable to what made sense just a generation ago. We have new options. Things changed.
+
+Or take venture capital. It barely existed 25 years ago. There are single venture capital funds today that are larger than the entire industry was a generation ago. In his memoir, Nike founder Phil Knight wrote about his early days in business:
+
+There was no such thing as venture capital. An aspiring young entrepreneur had very few places to turn, and those places were all guarded by risk-averse gatekeepers with zero imagination. In other words, bankers.
+
+What this means, in effect, is that all historical data going back just a few decades about how startups are financed is out of date. What we know about investment cycles and startup failure rates is not a deep base of history to learn from, because the way companies are funded today is such a new historical paradigm.
+
+Or take public markets. The S&P 500 did not include financial stocks until 1976; today, financials make up 16% of the index. Technology stocks were virtually nonexistent 50 years ago. Today, they’re more than a fifth of the index. Accounting rules have changed over time. So have disclosures, auditing, and the amount of market liquidity. Things changed.
+
+The time between U.S. recessions has changed dramatically over the last 150 years: The average time between recessions has grown from about two years in the late 1800s to five years in the early 20th century to eight years over the last half-century. As I write this it looks like we’re going into recession—12 years since the last recession began in December 2007. That’s the longest gap between recessions since before the Civil War.
+
+There are plenty of theories on why recessions have become less frequent. One is that the Fed is better at managing the business cycle, or at least extending it. Another is that heavy industry is more prone to boom-and-bust overproduction than the service industries that dominated the last 50 years. The pessimistic view is that we now have fewer recessions, but when they occur they are more powerful than before.
+
+For our argument it doesn’t particularly matter what caused the change. What matters is that things clearly changed. To show how these historic changes should affect investing decisions, consider the work of a man many believe to be one of the greatest investment minds of all time: Benjamin Graham.
+
+Graham’s classic book, The Intelligent Investor, is more than theory. It gives practical directions like formulas investors can use to make smart investing decisions. I read Graham’s book when I was a teenager, learning about investing for the first time. The formulas presented in the book were appealing to me, because they were literally step-by-step instructions on how to get rich. Just follow the instructions. It seemed so easy. But something becomes clear when you try applying some of these formulas: few of them actually work.
+
+Graham advocated purchasing stocks trading for less than their net working assets—basically cash in the bank minus all debts. This sounds great, but few stocks actually trade that cheaply anymore—other than, say, a penny stock accused of accounting fraud. One of Graham’s criteria instructs conservative investors to avoid stocks trading for more than 1.5 times book value. If you followed this rule over the last decade you would have owned almost nothing but insurance and bank stocks. There is no world where that is OK.
+
+The Intelligent Investor is one of the greatest investing books of all time. But I don’t know a single investor who has done well implementing Graham’s published formulas. The book is full of wisdom—perhaps more than any other investment book ever published. But as a how-to guide, it’s questionable at best.
+
+What happened? Was Graham a showman who sounded good but whose advice didn’t work? Not at all. He was a wildly successful investor himself. But he was practical. And he was a true contrarian. He wasn’t so wedded to investing ideas that he’d stick with them when too many other investors caught onto those theories, making them so popular as to render their potential useless.
+
+Jason Zweig—who annotated a later version of Graham’s book—once wrote: Graham was constantly experimenting and retesting his assumptions and seeking out what works—not what worked yesterday but what works today. In each revised edition of The Intelligent Investor, Graham discarded the formulas he presented in the previous edition and replaced them with new ones, declaring, in a sense, that “those do not work anymore, or they do not work as well as they used to; these are the formulas that seem to work better now.”
+
+One of the common criticisms made of Graham is that all the formulas in the 1972 edition are antiquated. The only proper response to this criticism is to say: “Of course they are! They are the ones he used to replace the formulas in the 1965 edition, which replaced the formulas in the 1954 edition, which, in turn, replaced the ones from the 1949 edition, which were used to augment the original formulas that he presented in Security Analysis in 1934.”
+
+Graham died in 1976. If the formulas he advocated were discarded and updated five times between 1934 and 1972, how relevant do you think they are in 2020? Or will be in 2050?
+
+Just before he died Graham was asked whether detailed analysis of individual stocks—a tactic he became famous for—remained a strategy he favored. He answered: In general, no. I am no longer an advocate of elaborate techniques of security analysis in order to find superior value opportunities. This was a rewarding activity, say, 40 years ago, when our textbook was first published. But the situation has changed a great deal since then.
+
+What changed was: Competition grew as opportunities became well known; technology made information more accessible; and industries changed as the economy shifted from industrial to technology sectors, which have different business cycles and capital uses. Things changed.
+
+An interesting quirk of investing history is that the further back you look, the more likely you are to be examining a world that no longer applies to today. Many investors and economists take comfort in knowing their forecasts are backed up by decades, even centuries, of data. But since economies evolve, recent history is often the best guide to the future, because it’s more likely to include important conditions that are relevant to the future.
+
+There’s a common phrase in investing, usually used mockingly, that “It’s different this time.” If you need to rebut someone who’s predicting the future won’t perfectly mirror the past, say, “Oh, so you think it’s different this time?” and drop the mic. It comes from investor John Templeton’s view that “The four most dangerous words in investing are, ‘it’s different this time.’” Templeton, though, admitted that it is different at least 20% of the time. The world changes. Of course it does. And those changes are what matter most over time.
+
+Michael Batnick put it: “The twelve most dangerous words in investing are, ‘The four most dangerous words in investing are, ‘it’s different this time.’”
+
+That doesn’t mean we should ignore history when thinking about money. But there’s an important nuance: The further back in history you look, the more general your takeaways should be. General things like people’s relationship to greed and fear, how they behave under stress, and how they respond to incentives tend to be stable in time. The history of money is useful for that kind of stuff. But specific trends, specific trades, specific sectors, specific causal relationships about markets, and what people should do with their money are always an example of evolution in progress. Historians are not prophets.
+
+The question, then, is how should we think about and plan for the future? Let’s take a look in the next chapter.
+
+
+## 12. Room for Error: The Undervalued Power of Margin of Safety and Flexibility
+
+Let's talk about a concept often whispered but rarely shouted from the rooftops of the financial world: Room for error. The margin of safety. It's about understanding, truly understanding, that life is messy, unpredictable, and rarely conforms to our neatly laid plans.
+
+Think of a seasoned card counter at a blackjack table. They aren't clairvoyant. They can't *know* the next card. What they *can* do is assess probabilities. They nudge the odds slightly in their favor. But even with the math on their side, they understand that a losing streak is inevitable. They don't bet the house on every hand, no matter how good the count looks. Why? Because survival is paramount. Staying in the game allows the odds to eventually tilt in their favor. Wipe yourself out early, and the long-term probabilities become irrelevant.
+
+As Kevin Lewis, a successful card counter, said, even with a two percent edge over the casino, the casino will still win 49 percent of the time. You need enough money to withstand any variant swings against you.
+
+This, my friends, is the essence of room for error. It's not about predicting the future with certainty – an impossible task – but about building resilience to weather the storms, both foreseen and unforeseen.
+
+Benjamin Graham, the father of value investing, captured it perfectly when he said, "The purpose of the margin of safety is to render the forecast unnecessary." Ponder that for a moment. It's a revolutionary idea. Instead of striving for perfect predictions, build a financial life that can withstand a range of outcomes.
+
+Why is this so often overlooked? Perhaps it's because we're drawn to certainty. Price *targets* rather than price *ranges*. Definite predictions instead of probable scenarios. "I will be able to retire on *this* date," instead of, "I'll likely be in a good position to retire sometime within *this* range."
+
+But life is rarely that precise. As Harvard psychologist Max Bazerman has shown, we consistently overestimate the accuracy of our own predictions, particularly when it comes to our own projects. We expect things to go according to plan, on time, and within budget. We conveniently forget Murphy's Law.
+
+There are forces that cause us to avoid room for error. One is the idea that somebody *must* know what the future holds. The second is that you are therefore doing yourself harm by not taking actions that fully exploit an accurate view of that future coming true.
+
+Room for error isn’t a sign of weakness, but rather as one of strength and resilience. It lets you endure, adapt, and ultimately, capitalize on opportunities that others, wiped out by miscalculated risks, cannot.
+
+Billionaire Michael Moritz, the head of Sequoia Capital, was asked why his firm had been so successful. He mentioned that his firm assumes that tomorrow won’t be like yesterday and that they can’t afford to rest on their laurels.
+
+What does this look like in practice? For the individual investor, it might mean holding more cash than "optimally" allocated. Missing out on potential gains in the short-term to ensure survival in the long-term. It's about prioritizing financial *unbreakability* over flashy returns. As Mohnish Pabrai put it, Charlie and Warren were not in a hurry to get wealthy, they knew it would happen. Rick, however, was in a hurry and was levered, and he lost his shares because he got margin calls.
+
+Think of it this way: Cash during a bull market is like a spare tire in your car. You might never need it, but if you do, you'll be incredibly grateful it's there. The true return on that cash isn't the meager interest it earns, but the freedom it provides to avoid selling assets at distressed prices during a market downturn.
+
+It also means embracing flexibility in your financial plans. Projecting income, savings rates, and investment returns over the next 20 years? Fantastic. But remember, life throws curveballs. A job loss, an unexpected expense, a market crash – these things happen. A solid plan anticipates these possibilities and incorporates a buffer to absorb the impact.
+
+And then there's the art of balancing optimism and paranoia. A barbelled personality as I call it. Believe in the long-term upward trajectory, but remain vigilant about the potential pitfalls along the way. To quote Nassim Taleb, “You can be risk loving and yet completely averse to ruin.”
+
+This requires a nuanced mindset: Short-term paranoia to keep you alive long enough to exploit long-term optimism. To repeat a point we’ve made a few times in this book: The ability to do what you want, when you want, for as long as you want, has an infinite ROI. Room for error does more than just widen the target around what you think might happen. It also helps protect you from things you’d never imagine, which can be the most troublesome events we face.
+
+Finally, avoid single points of failure. Ensure that your financial life isn't dependent on one job, one investment, or one specific outcome. Diversify, build reserves, and create redundancies. As I said earlier, Everything that can break will eventually break.
+
+So, what does all of this mean for you? Take a moment to reflect. How much room for error do you currently have in your financial life? Are you prepared for the unexpected? Are you willing to sacrifice some potential upside for the peace of mind that comes with resilience?
+
+There is, of course, a darker side to the illusion of certainty. A side that can lead to catastrophe. That is what we will be speaking on next time.
+
+
+## 13. Enduring Change: Navigating the Evolving Landscape of Life and Finance
+
+As we've journeyed through the psychology of money, we've seen how behavior trumps raw intelligence, how luck and risk dance together, and how defining 'enough' is a shield against insatiable ambition. We've explored the magic of compounding, the necessity of survival, and the surprising role of failure in success. We've also looked at the modern challenges in pursuing time autonomy, and the importance of recognizing what wealth truly is, as well as the critical importance of saving, the power of being reasonable over merely rational, and how essential it is to make room for life's unavoidable errors.
+
+Now, let's turn our attention to the inevitable force of change, and how it shapes our financial lives.
+
+Life, as Heraclitus famously said, is change. And so too is the landscape of money. Our careers evolve, our families grow, our priorities shift, and the world around us undergoes constant transformation. The investments we once held dear might no longer align with our future goals, and the financial strategies that served us well in the past may become obsolete in the face of new economic realities. The key is to anticipate, adapt, and endure. As the book suggests, "Long-term financial planning is essential. But things change - both the world around you, and your own goals and desires."
+
+One of the biggest challenges we face is our own tendency to underestimate the extent to which we will change over time. Psychologists call this the "End of History Illusion." We tend to believe that we have reached a point of stability, that our personalities, goals, and desires are largely fixed. But this is rarely the case.
+
+Consider the student who pursues a law degree with unwavering conviction, only to find years later that the demanding hours and adversarial nature of the legal profession clash with their evolving values. Or the ambitious entrepreneur who sacrifices personal relationships for business success, only to realize that genuine human connection is far more fulfilling than financial gain. These examples are not signs of failure, but rather evidence of growth and self-discovery. The ability to acknowledge and adapt to these changes is crucial for a fulfilling life, both personally and financially.
+
+So, how can we navigate this ever-shifting landscape?
+
+First, we must embrace flexibility in our financial plans. A rigid, inflexible plan is likely to crumble in the face of unexpected life events or changing priorities. Instead, we should view our financial plans as living documents, open to revision and adaptation as our circumstances evolve. This might involve reassessing our investment portfolios, adjusting our savings goals, or even considering a career change.
+
+Second, we must be wary of sunk costs. It's easy to become attached to past decisions, even if they no longer serve our best interests. This can lead us to cling to underperforming investments, stay in unfulfilling jobs, or maintain unsustainable lifestyles. As the book notes, embracing the idea that financial goals made when you were a different person should be abandoned without mercy versus put on life support and dragged on can be a good strategy to minimize future regret."
+
+Third, we must prioritize experiences over possessions. Material possessions can provide temporary satisfaction, but they often fail to deliver lasting happiness. Experiences, on the other hand, create memories, foster connections, and enrich our lives in profound ways. A well-deserved vacation, a meaningful volunteer opportunity, or a shared adventure with loved ones can provide far greater returns than a luxury car or a designer handbag.
+
+And lastly, we must cultivate a mindset of continuous learning. The financial world is constantly evolving, and it's essential to stay informed about new trends, strategies, and opportunities. Read books, attend seminars, and seek advice from trusted financial professionals. The more we know, the better equipped we are to make informed decisions and navigate the inevitable changes that life throws our way. In the end, the ability to endure change is a critical component of long-term financial success. By embracing flexibility, avoiding sunk costs, prioritizing experiences, and cultivating a mindset of continuous learning, we can navigate the evolving landscape of life and finance with confidence and resilience.
+
+The journey of financial wisdom is never really over. Now, we turn our attention to volatility. Are you ready to face the inevitable storms that come with investing? Let's find out.
+
+
+## 14. The Price of Admission: Volatility as a Necessary Fee for Long-Term Returns
+
+Everything has a price, and the key to a lot of things with money is just figuring out what that price is and being willing to pay it. But the price of a lot of things is not obvious until you’ve experienced them firsthand, when the bill is overdue.
+
+General Electric, once the largest company in the world, crumbled. Blame was placed on its CEO, Jeff Immelt. He was criticized for his leadership, his acquisitions, cutting the dividend, and the plunging stock price. But Immelt said something insightful on his way out. He told his successor, “Every job looks easy when you’re not the one doing it.”
+
+Every job looks easy when you’re not the one doing it, because the challenges faced by someone in the arena are often invisible to those in the crowd.
+
+Successful investing looks easy when you’re not the one doing it. "Hold stocks for the long run," you'll hear. It’s good advice. But do you know how hard it is to maintain a long-term outlook when stocks are collapsing? Like everything else worthwhile, successful investing demands a price. But its currency is not dollars and cents. It’s volatility, fear, doubt, uncertainty, and regret—all of which are easy to overlook until you’re dealing with them in real time.
+
+The inability to recognize that investing has a price can tempt us to try to get something for nothing. Which, like shoplifting, rarely ends well. Say you want a new car. It costs $30,000. You have three options: pay for it, find a cheaper one, or steal it. Most people know to avoid the third option. But say you want to earn an 11% annual return over the next 30 years so you can retire in peace. Does this reward come free? Of course not. The world is never that nice. There’s a price tag, a bill that must be paid. In this case it’s a never-ending taunt from the market, which gives big returns and takes them away just as fast.
+
+The Dow Jones Industrial Average returned about 11% per year from 1950 to 2019. Great. But the price of success during this period was dreadfully high. Imagine enduring those significant periods below previous highs. This is the price of market returns. The fee. It is the cost of admission. And it hurts.
+
+Like most products, the bigger the returns, the higher the price. Netflix stock returned more than 35,000% from 2002 to 2018, but traded below its previous all-time high on 94% of days.
+
+Now here’s the important part. Like the car, you have a few options: You can pay this price, accepting volatility and upheaval. Or you can find an asset with less uncertainty and a lower payoff. Or you can attempt grand-theft auto: Try to get the return while avoiding the volatility that comes along with it. Many people in investing choose the third option. Like a car thief, they form tricks and strategies to get the return without paying the price. They trade in and out. They attempt to sell before the next recession and buy before the next boom.
+
+But the Money Gods do not look highly upon those who seek a reward without paying the price. Some car thieves will get away with it. Many more will be caught and punished. Same thing with investing. Trying to avoid the price, investors end up paying double.
+
+Going back to GE, one of its many faults stems from an era under former CEO Jack Welch. Welch became famous for ensuring quarterly earnings per share beat Wall Street estimates. Stockholders didn’t have to pay the price. They got consistency and predictability. Then the bill came due, like it always does. GE shareholders have suffered through a decade of mammoth losses that were previously shielded by accounting maneuvers.
+
+The question is: Why do so many people who are willing to pay the price of cars, houses, food, and vacations try so hard to avoid paying the price of good investment returns? The answer is simple: The price of investing success is not immediately obvious. It’s not a price tag you can see, so when the bill comes due it doesn’t feel like a fee for getting something good. It feels like a fine for doing something wrong. You’re supposed to make decisions that preempt and avoid fines.
+
+But a traffic fine and an IRS fine mean you did something wrong and deserve to be punished. The natural response for anyone who watches their wealth decline and views that drop as a fine is to avoid future fines. This is why thinking of market volatility as a fee rather than a fine is an important part of developing the kind of mindset that lets you stick around long enough for investing gains to work in your favor.
+
+Few investors have the disposition to say, “I’m actually fine if I lose 20% of my money.” This is doubly true for new investors who have never experienced a 20% decline. But if you view volatility as a fee, things look different. Disneyland tickets cost $100. But you get an awesome day with your kids you’ll never forget. The worthwhile tradeoff of fees is obvious when it’s clear you’re paying one. Same with investing, where volatility is almost always a fee, not a fine.
+
+Market returns are never free and never will be. They demand you pay a price, like any other product. You’re not forced to pay this fee, just like you’re not forced to go to Disneyland. The volatility/uncertainty fee—the price of returns—is the cost of admission to get returns greater than low-fee parks like cash and bonds.
+
+The trick is convincing yourself that the market’s fee is worth it. That’s the only way to properly deal with volatility and uncertainty—not just putting up with it, but realizing that it’s an admission fee worth paying. Find the price, then pay it.
+
+
+## 15. The Seduction of False Narratives: How Stories Shape Economic Behavior
+
+Imagine an alien dispatched to Earth. His job is to keep tabs on our economy. He circles above New York City, trying to size up the economy and how it changed between 2007 and 2009.
+
+On New Year’s Eve 2007 he hovers over Times Square. He sees tens of thousands of happy partygoers surrounded by bright lights, monstrous billboards, fireworks, and TV cameras. He comes back to Times Square on New Year’s Eve 2009. He sees tens of thousands of happy partygoers surrounded by bright lights, monstrous billboards, fireworks, and TV cameras. It looks about the same. He cannot see much difference.
+
+He sees roughly the same number of New Yorkers hustling around the city. Those people are surrounded by the same number of office buildings, which house the same number of desks with the same number of computers, hooked up to the same number of internet connections. Outside the city he sees the same number of factories and warehouses, connected by the same highways, carrying the same number of trucks.
+
+He gets a little closer to the ground and sees the same universities teaching the same topics and handing out the same degrees to the same number of people. He sees the same number of patents protecting the same groundbreaking ideas. He notices that technology has improved. Everyone in 2009 carries smartphones that didn’t exist in 2007. Computers are now faster. Medicine is better. Cars get better gas mileage. Solar and fracking technology has advanced. Social media has grown exponentially. As he flies around the country he sees the same. Around the globe, more of the same.
+
+The economy is in about the same shape, maybe even better, in 2009 as it was in 2007, he concludes. Then he looks at the numbers. He’s shocked that U.S. households are $16 trillion poorer in 2009 than they were in 2007. He’s dumbfounded that 10 million more Americans are unemployed. He’s in disbelief when he learns the stock market is worth half of what it was two years before. He can’t believe that people’s forecast of their economic potential has plunged.
+
+“I don’t get it,” he says. “I’ve seen the cities. I’ve looked at the factories. You guys have the same knowledge, the same tools, the same ideas. Nothing has changed! Why are you poorer? Why are you more pessimistic?”
+
+There was one change the alien couldn’t see between 2007 and 2009: The stories we told ourselves about the economy. In 2007, we told a story about the stability of housing prices, the prudence of bankers, and the ability of financial markets to accurately price risk. In 2009 we stopped believing that story. That’s the only thing that changed. But it made all the difference in the world.
+
+Once the narrative that home prices will keep rising broke, mortgage defaults rose, then banks lost money, then they reduced lending to other businesses, which led to layoffs, which led to less spending, which led to more layoffs, and on and on.
+
+Other than clinging to a new narrative, we had an identical—if not greater—capacity for wealth and growth in 2009 as we did in 2007. Yet the economy suffered its worst hit in 80 years. This is different from, say, Germany in 1945, whose manufacturing base had been obliterated. Or Japan in the 2000s, whose working-age population was shrinking. That’s tangible economic damage. In 2009 we inflicted narrative damage on ourselves, and it was vicious.
+
+It’s one of the most potent economic forces that exists. When we think about the growth of economies, businesses, investments and careers, we tend to think about tangible things—how much stuff do we have and what are we capable of? But stories are, by far, the most powerful force in the economy. They are the fuel that can let the tangible parts of the economy work, or the brake that holds our capabilities back.
+
+At the personal level, there are two things to keep in mind about a story-driven world when managing your money.
+
+1.  The more you want something to be true, the more likely you are to believe a story that overestimates the odds of it being true.
+
+What was the happiest day of your life? The documentary How to Live Forever asks that innocent question to a centenarian who offered an amazing response. “Armistice Day,” she said, referring to the 1918 agreement that ended World War I. “Why?” the producer asks. “Because we knew there would be no more wars ever again,” she says. World War II began 21 years later, killing 75 million people.
+
+There are many things in life that we think are true because we desperately want them to be true. I call these things “appealing fictions.” They have a big impact on how we think about money—particularly investments and the economy. An appealing fiction happens when you are smart, you want to find solutions, but face a combination of limited control and high stakes. They are extremely powerful. They can make you believe just about anything.
+
+Ali Hajaji’s son was sick. Elders in his Yemeni village proposed a folk remedy: shove the tip of a burning stick through his son’s chest to drain the sickness from his body. After the procedure, Hajaji told The New York Times: “When you have no money, and your son is sick, you’ll believe anything.”
+
+That rings so true, doesn't it? Before the scientific method and the discovery of germs, before medicine was truly helpful, there was blood-letting, starvation therapy, cutting holes in your body to let the evils out, and other treatments that did nothing but hasten your demise. It seems crazy. But if you desperately need a solution and a good one isn’t known or readily available to you, the path of least resistance is toward Hajaji’s reasoning: willing to believe anything. Not just try anything, but believe it.
+
+Now think about how the same set of limited information and high stakes impact our financial decisions. Why do people listen to TV investment commentary that has little track record of success? Partly because the stakes are so high in investing. Get a few stock picks right and you can become rich without much effort. If there’s a 1% chance that someone’s prediction will come true, and it coming true will change your life, it’s not crazy to pay attention—just in case. And there are so many financial opinions that once you pick a strategy or side, you become invested in them both financially and mentally. If you want a certain stock to rise 10-fold, that’s your tribe. If you think a certain economic policy will spark hyperinflation, that’s your side. These may be low-probability bets.
+
+The problem is that viewers can’t, or don’t, calibrate low odds, like a 1% chance. Many default to a firm belief that what they want to be true is unequivocally true.
+
+Tell yourself - remember that, tell yourself - that the possibility of a huge outcome exists. Investing is one of the only fields that offers daily opportunities for extreme rewards. People believe in financial quackery in a way they never would for weather quackery because the rewards for correctly predicting what the stock market will do next week are in a different universe than the rewards for predicting whether it will be sunny or rainy next week.
+
+Take Bernie Madoff. In hindsight his Ponzi scheme should have been obvious. He reported returns that never varied, they were audited by a relatively unknown accounting firm, and he refused to release much information on how the returns were achieved. Yet Madoff raised billions of dollars from some of the most sophisticated investors in the world. He told a good story, and people wanted to believe it.
+
+This is a big part of why room for error, flexibility, and financial independence are indispensable. The bigger the gap between what you want to be true and what you need to be true to have an acceptable outcome, the more you are protecting yourself from falling victim to an appealing financial fiction.
+
+When thinking about room for error in a forecast it is tempting to think that potential outcomes range from you being just right enough to you being very, very right. But the biggest risk is that you want something to be true so badly that the range of your forecast isn’t even in the same ballpark as reality.
+
+1.  Everyone has an incomplete view of the world. But we form a complete narrative to fill in the gaps.
+
+She has no idea why her dad goes to work every morning. The concept of bills, budgets, careers, promotions, and saving for retirement are completely foreign to her. Imagine trying to explain the Federal Reserve, credit derivatives, or NAFTA to her. Impossible. But her world isn’t dark. She does not wander around in confusion. Even at a year old, she’s written her own internal narrative of how everything works. Blankets keep you warm, mom snuggles keep you safe, and dates taste good.
+
+Everything she comes across fits into one of a few dozen mental models she’s learned. When I go to work she doesn’t stop in confusion, wondering what salary and bills are. She has a crystal clear explanation of the situation: Dad isn’t playing with me, and I wanted him to play with me, so I’m sad. Even though she knows little, she doesn’t realize it, because she tells herself a coherent story about what’s going on based on the little she does know.
+
+All of us, no matter our age, do the same thing. Just like my daughter, I don’t know what I don’t know. So I am just as susceptible to explaining the world through the limited set of mental models I have at my disposal. Like her, I look for the most understandable causes in everything I come across. And, like her, I’m wrong about a lot of them, because I know a lot less about how the world works than I think I do.
+
+This is true for the most fact-based of subjects. Take history. It’s just the recounting of stuff that already happened. It should be clear and objective. But as B. H. Liddell Hart writes: [History] cannot be interpreted without the aid of imagination and intuition. The sheer quantity of evidence is so overwhelming that selection is inevitable. Where there is selection there is art.
+
+Just as we start wars to end all wars, so too do we cling to simplified stories that leave out vital, inconvenient details.
+
+When I’m blind to parts of how the world works I might completely misunderstand why the stock market is behaving like it is, in a way that gives me too much confidence in my ability to know what it might do next. Part of the reason forecasting the stock market and the economy is so hard is because you are the only person in the world who thinks the world operates the way you do.
+
+When you make decisions for reasons that I can’t even comprehend, I might follow you blindly into a decision that’s right for you and disastrous to me. This, as we saw, is how bubbles form.
+
+Coming to terms with how much you don’t know means coming to terms with how much of what happens in the world is out of your control. And that can be hard to accept. We cling to stories about outcomes being in our control. The illusion of control is more persuasive than the reality of uncertainty.
+
+And like my daughter, it doesn’t bother us a bit. We don’t wander around blind and confused. We have to think the world we operate in makes sense based on what we happen to know. It’d be too hard to get out of bed in the morning if you felt otherwise. But the alien circling over Earth? The one who’s confident he knows what’s happening based on what he sees but turns out to be completely wrong because he can’t know the stories going on inside everyone else’s head? He’s all of us.
+
+
+## 16. Putting it All Together: Crafting a Personal Philosophy for Financial Wellbeing
+
+We've traversed a landscape of cognitive biases, historical lessons, and paradoxical truths. Now, the time has come to synthesize these insights, to forge a personal philosophy that guides your financial journey.
+
+Remember, there is no universal map. There is only your journey. There is no singular right answer. Only the answer that resonates with you, with your values, and your vision of a life well-lived.
+
+As the book has demonstrated, "I can’t tell you what to do with your money, because I don’t know you. I don’t know what you want. I don’t know when you want it. I don’t know why you want it."
+
+But there are some guideposts. Basic principles that endure, even amidst the chaos of markets and the shifting sands of personal circumstances. Let us consider these guideposts now, and see how they might inform your own path.
+
+First, **seek humility in times of prosperity, and compassion in moments of adversity.** As we’ve seen, “it’s never as good or as bad as it looks.” The world is too big, too complex. Luck and risk are ever-present forces. Recognize them, and you will be less prone to hubris and despair, and more focused on what you can truly control.
+
+Second, **less ego, more wealth.** Saving is the chasm between your ego and your income. Wealth is the financial bedrock you don't see. It's built on delaying gratification and prizing experiences over possessions. Building this chasm gives you the most important thing of all, security in an uncertain world.
+
+Third, and perhaps most importantly, **manage your money in a way that helps you sleep at night.** What does this entail? It’s not just about maximizing returns, or adhering to rigid saving targets. It's about crafting a financial plan that aligns with your deepest values, that reduces your anxieties, and grants you peace of mind. If you sleep soundly, you can play the game, and survival, after all, is the means to riches.
+
+Fourth, **extend your time horizon.** Time is the ultimate amplifier. It allows small savings to compound into significant wealth. It softens the blows of market downturns. With a long horizon and sufficient planning for errors, you can give wealth building the breathing room it needs to work its magic.
+
+Fifth, **embrace imperfection.** Aim for progress, not perfection. Don't get bogged down by things going wrong. “You can be wrong half the time and still make a fortune, because a small minority of things account for the majority of outcomes.” A good approach to the psychology of money accepts this reality and plans around it.
+
+Sixth, **use money to gain control over your time.** This is, perhaps, the highest dividend of all. Freedom over your time, "the ability to do what you want, when you want, with who you want, for as long as you want to,” is a powerful and universal source of happiness and fulfilment. And remember it is what endures far longer than fleeting material gain.
+
+Seventh, **cultivate kindness and shun ostentation.** Remember the man in the car paradox. "No one is impressed with your possessions as much as you are.” Strive for genuine connection, not fleeting admiration.
+
+Eighth, **save without a specific reason.** View saving as an essential habit, not just a means to an end. You can never predict what financial challenges life will throw your way. The power of savings is to create this optionality and resilience.
+
+Ninth, **acknowledge the cost of success and be ready to pay it.** Everything comes at a price. In the realm of investing, this price is often volatility, uncertainty, and the nagging fear of loss. Recognize these as fees, not as fines, and you’ll be better equipped to endure the inevitable turbulence of the market.
+
+Tenth, **venerate the margin of safety**. Build a buffer between what you think is going to happen and what can happen in the world. A gap between what could happen in the future and what you need to happen in the future in order to do well grants endurance and make compounding your friend.
+
+Finally, **define the game you're playing, and ensure your decisions aren't being swayed by those playing a different one.** Do not be tempted by the false narratives that drive speculative bubbles. Be true to your goals, your time horizon, and your risk tolerance.
+
+This book, in many ways, is a testament to the messy, often irrational nature of financial decision-making. But within this mess lies the potential for profound understanding and greater financial well-being. Respect the mess, not because that’s “all there is,” but because there’s opportunity there.
+
+Remember, financial success is not solely about numbers. It's about behavior. It’s about aligning your money with your values, your aspirations, and your unique vision of a meaningful life. Craft your philosophy. Live it with intention.
+
+In the postscript, the author provides a brief history of the American consumer, exploring the cultural forces that have shaped our relationship with money and consumption.
+
+And, as it is with the story of the history of the world, with all its cycles and the ebb and flow of fortune and prosperity, such is the cycle of our own financial psychology.
+
+
+## Postscript: A Brief History of Consumerism in the U.S.
+
+To truly understand the psychology of the modern consumer, and to grasp where they might be heading, we must delve into how they arrived here in the first place. How *we* all got here.
+
+Imagine waking up from a deep slumber, having fallen asleep in 1945 and awakening in 2020. The world around you would be utterly unrecognizable. The sheer magnitude of economic growth witnessed during that period is, to put it mildly, unprecedented. The opulence of New York and San Francisco would leave you speechless. The poverty of Detroit would shock you. The skyrocketing prices of homes, college tuition, and healthcare would defy belief. And the way average Americans perceive saving and spending would likely confound you.
+
+If you were to attempt a reasonable narrative to explain this transformation, my guess is you’d be largely mistaken. This evolution wasn’t intuitive, nor was it easily foreseeable. What transpired in America following World War II is, in essence, the story of the American consumer. It sheds light on why people today think about money in the particular ways that they do.
+
+To put it succinctly: things were initially uncertain, then remarkably prosperous, then quite challenging, then incredibly lucrative, then deeply troubling, and finally, here we stand. And within this series of events, I believe, lies a narrative that binds them all together.
+
+It's important to note that this is an attempt to connect broad strokes; it intentionally omits many finer details. If you point out nuances I've missed, I will likely agree. The goal here is not to meticulously catalogue every detail, but to observe how one significant event paved the way for the next.
+
+Here's a brief summary of how the modern consumer came to be:
+
+**1. August 1945: The End of World War II.**
+
+The surrender of Japan marked, as *The New York Times* declared, “The Happiest Day in American History.” Yet, as the saying goes, "History is just one damn thing after another." The joy was quickly tempered by a pressing question: "What happens now?" Sixteen million Americans, 11% of the population, served in the war. What would they do? Where would they work? Where would they live? The concern was, If these questions couldn't be answered swiftly, the economy might relapse into the Great Depression. Housing construction had halted, war-specific jobs vanished, and marriage rates surged.
+
+**2. Low-Interest Rates and the Intentional Birth of the American Consumer.**
+
+The response was to keep interest rates artificially low. The Fed, not yet fully independent, kept short-term rates at 0.38% for seven years. This action, while aimed at financing war debt, made borrowing exceptionally cheap for returning GIs, fueling consumption. Consumption became an explicit economic strategy. The GI Bill offered unprecedented mortgage opportunities, and consumer credit exploded.
+
+**3. The Explosion of "Stuff".**
+
+Pent-up demand for consumer goods, combined with a hidden productivity boom fueled by wartime innovation, resulted in unprecedented economic growth. Things previously unattainable now became accessible. Home construction, automobile sales, and appliance ownership surged.
+
+**4. Shared Gains.**
+
+The economic expansion was uniquely inclusive. The average family began to realize a higher standard of living. The gap between rich and poor narrowed, and minorities and women began to gain social and economic ground. Lifestyles began to equalize.
+
+**5. Rising Debt.**
+
+Household debt surged, but it was manageable thanks to robust income growth. Debt-to-income ratios remained relatively low. Homeownership, in particular, fueled this increase in borrowing.
+
+**6. Cracks Begin to Appear.**
+
+The economic landscape shifted in 1973. High unemployment coincided with persistent inflation. International competition intensified, and rising energy prices compounded the challenges. The post-war vision of a constantly growing pie and a more equal America began to falter.
+
+**7. The Boom Resumes, but Something Changes.**
+
+While economic growth returned in the 1980s and 1990s, the gains were no longer shared equally. The top 1% saw their incomes soar, while the bottom 99% experienced limited or no gains. The economy was growing, but for far fewer people than before.
+
+**8. The Big Stretch.**
+
+The extravagant lifestyles of the wealthy became highly visible, fueled by advertising and then the internet. The majority, whose incomes lagged, aspired to this elevated standard of living, stretching their finances to achieve it. Household debt soared, and personal debt rose dramatically.
+
+**9. A Paradigm Locked in Place.**
+
+The policies enacted in response to the 2008 financial crisis, while necessary to prevent a total collapse, largely benefited those who already possessed assets – further exacerbating inequality. It created a new normal.
+
+**10. Stop the Ride!**
+
+Movements like the Tea Party, Occupy Wall Street, Brexit, and the election of Donald Trump, represent a collective desire for a return to a more equitable system. These movements, despite their differences, shared a common thread: a sense that the existing economic order was not working for them. The internet, where disparities are more visible than ever, only amplified the sense of frustration.
+
+This journey through recent history reveals that the stories we tell ourselves about money, wealth, and success are as potent as any economic force. Be cautious of accepting what you want to be true without evaluating what *is* true, and knowing your own place in the arc of economic cycles.

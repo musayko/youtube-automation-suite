@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Generated asset files - NEVER track these
+# They should be generated on the machine running the code
+books/*/audio/
+books/*/chunks/
+books/*/images/
+books/*/video/
+books/*/detailed_outline.json
+
+# Sensitive configuration
+# We will track a TEMPLATE file instead
+config/api_keys.json
+config/micro-raceway-464313-t7-d4239d5d0dfb.json
+
+# macOS system files
+.DS_Store

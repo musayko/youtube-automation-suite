@@ -1,0 +1,104 @@
+{
+  "Meditations by Marcus Aurelius": {
+    "style": "historical oil painting, baroque and renaissance inspired, chiaroscuro lighting, rich textures, painterly brush strokes, subdued earth tones",
+    "themes": ["stoicism", "solitude", "Roman architecture", "bronze statues", "philosophy", "inner turmoil", "light and shadow"],
+    "context": "a Roman emperor and philosopher writing private meditations about life, fate, and discipline"
+  },
+  "The Art of War": {
+    "style": "minimalist ink-wash style inspired by ancient Chinese scroll art, strategic, epic",
+    "themes": ["strategy", "ancient warfare", "mountains", "armies", "yin-yang balance", "bamboo", "mist"],
+    "context": "an ancient Chinese general giving philosophical advice on warfare and leadership"
+  },
+  "Tao Te Ching": {
+    "style": "ethereal, mystical, soft pastel watercolor with Eastern spiritual elements, tranquil",
+    "themes": ["harmony with nature", "flowing rivers", "misty mountains", "minimalist monks", "yin-yang", "serenity"],
+    "context": "a philosophical and poetic text on the Tao and the natural flow of existence"
+  },
+  "The Psychology of Money": {
+  "style": "mid-century magazine illustration, vintage textures, muted retro palette (olive green, dusty gold, cream, faded red), painterly vector style with subtle grain and paper texture",
+  "themes": ["timeless financial lessons", "daily money habits", "saving vs. spending", "emotional decisions", "wealth as behavior", "money through the decades"],
+  "context": "inspired by 1950s–60s editorial, commercial illustrations, visualizing relatable financial moments in a nostalgic, warm, and accessible way",
+  "image_text_preference": "no text"
+},
+  "The_Almanack_of_Naval_Ravikant": {
+    "style": "Indo-Persian miniature painting style with intricate detailing, jewel-toned colors (lapis blue, saffron, emerald, ruby), ornamental borders, flattened perspective, gold leaf accents, storytelling through symbolic vignettes and serene landscapes",
+    "themes": [
+      "philosophical introspection",
+      "spiritual wealth",
+      "entrepreneur as philosopher-king",
+      "knowledge as divine pursuit",
+      "balance between action and stillness",
+      "life as a cosmic journey",
+      "inner freedom"
+    ],
+    "context": "a timeless sage in the form of a modern entrepreneur, dispensing wisdom on wealth, happiness, and self-mastery in a richly symbolic and contemplative world",
+    "image_text_preference": "no text"
+  },
+  "Empire of Cotton: A Global History": {
+    "style": "Historical Realism with Symbolic Depth. Detailed, artistically rendered scenes with dramatic, focused lighting (chiaroscuro-inspired). Employs muted historical palettes (earth tones, sepia, ochre, deep blues) with strategic pops of richer colors. Incorporates textures of cotton fiber, old paper, weathered elements, and historical engravings. Focuses on authentic historical settings and figures.",
+    "themes": [
+      "Global history of cotton",
+      "Labor and exploitation (slave labor, industrial work)",
+      "Industrialization",
+      "Trade and economic power",
+      "Historical landscapes and settings",
+      "Power dynamics and social stratification",
+      "The human cost of commodities",
+      "Revolution and social change"
+    ],
+    "context": "Visually capturing the vast, complex, and often harsh history of cotton's global impact, from its cultivation and trade to its role in industrialization and societal structures. Aims to be historically grounded, visually rich, and symbolically resonant, highlighting the human stories within the grand narrative.",
+    "image_text_preference": "no text"
+  },
+  "Genghis Khan and the Making of the Modern World": {
+    "style": "Epic Historical Oil Painting, inspired by traditional battle scenes and nomadic landscapes. Features dramatic lighting, bold contrasts, rich textures, and dynamic brushstrokes to convey movement, grandeur, and the raw energy of conquest and empire.",
+    "themes": [
+      "Genghis Khan",
+      "Mongol Empire",
+      "Nomadic life",
+      "Horseback warfare",
+      "Conquest and empire building",
+      "Silk Road",
+      "Global trade routes",
+      "Cultural diffusion",
+      "Innovation (e.g., postal system, law)",
+      "Vast steppe landscapes",
+      "Historical battles",
+      "Impact on the modern world"
+    ],
+    "context": "A sweeping, epic historical portrayal of Genghis Khan's rise and the vast Mongol Empire's profound impact on global history, trade, and civilization. Rendered with the drama, texture, and dynamic energy of classical oil painting, emphasizing both the vast scope and the human element of this transformative period.",
+    "image_text_preference": "no text"
+  },
+  "How_to_Talk_to_Anyone_About_Anything": {
+    "style": "Contemporary Warm Illustration. Clean, friendly character design, approachable body language, optimistic and harmonious color palette (soft blues, corals, yellows, greens). Features clean lines and subtle textures evoking a welcoming, encouraging, and conversational feel, suggesting ease in social interaction.",
+    "themes": [
+      "Conversation and Dialogue",
+      "Building Rapport and Connection",
+      "Overcoming Shyness/Social Anxiety",
+      "Active Listening and Empathy",
+      "Bridging Topics and Interests",
+      "Confidence in Social Interactions",
+      "The Joy of Connection"
+    ],
+    "context": "A practical and encouraging guide designed to make communication and connection feel easy and rewarding for everyone. The visuals should reflect the idea that engaging with others and exploring diverse subjects is an approachable, positive experience that fosters genuine connection.",
+    "image_text_preference": "no text"
+  },
+  "The_Time_Travelers_Guide_to_Medieval_England": {
+    "style": "Medieval illuminated manuscript style, inspired by Gothic art. Features clear outlines, flattened perspective, rich jewel-toned colors (lapis blue, emerald green, ruby red, saffron gold) with prominent use of gold leaf accents. Symbolic representation of figures and settings, emphasizing detail in clothing and heraldry, rather than realistic lighting or deep textures. Focus on narrative vignettes.",
+    "themes": [
+      "social hierarchy",
+      "medieval cities",
+      "contrasting environments",
+      "aristocracy",
+      "clergy",
+      "peasantry",
+      "urban life",
+      "rural life",
+      "historical fashion",
+      "law and order",
+      "daily life details",
+      "sensory experience"
+    ],
+    "context": "A realistic and detailed exploration of social structures, daily life, sensory experiences, and the stark contrasts within fourteenth-century England, as explored in Ian Mortimer's 'The Time Traveler's Guide to Medieval England'.",
+    "image_text_preference": "no text"
+  }
+}
