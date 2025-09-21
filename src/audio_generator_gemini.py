@@ -114,8 +114,12 @@ def generate_audio_for_chunks(client, script_chunks, book_title):
             continue # Continue to the next chunk even if there's an error
 
 # --- Main Execution ---
-if __name__ == "__main__":
+def main():
     print("--- Starting Audio Generation with Gemini TTS ---")
+    # ... all the rest of the logic ...
+
+if __name__ == "__main__":
+    main()
 
     # 1. Load the API key
     api_key = load_api_key()
@@ -153,13 +157,13 @@ if __name__ == "__main__":
 
                 # 6. Generate audio for that chunk
                 try:
-                    prompt_text = f"Read in a calm, gentle audiobook narration: {text_to_speak}"
+                    prompt_text = f"Read in a calm, gentle high quality audiobook narration: {text_to_speak}"
                     
                     tts_config = types.GenerateContentConfig(
                         response_modalities=["AUDIO"],
                         speech_config=types.SpeechConfig(
                             voice_config=types.VoiceConfig(
-                                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name='Algieba')
+                                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name='Algenib')
                             )
                         )
                     )

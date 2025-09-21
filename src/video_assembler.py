@@ -269,7 +269,8 @@ def add_narration_and_music(video_with_narration_path):
     print(f"Success! Final video with music and narration saved to: {final_video_path}")
 
 
-if __name__ == "__main__":
+def main():
+    """The main execution function for the video assembler."""
     print(f"=== Video Assembly for '{config.BOOK_TITLE}' ===")
     
     if process_all_parts():
@@ -278,3 +279,6 @@ if __name__ == "__main__":
             add_narration_and_music(video_with_narration)
     else:
         print("\nVideo assembly failed. No parts were processed successfully. Please check the errors above.")
+
+if __name__ == "__main__":
+    main()

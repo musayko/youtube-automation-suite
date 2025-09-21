@@ -12,6 +12,7 @@ books/*/chunks/
 books/*/images/
 books/*/video/
 books/*/detailed_outline.json
+books/
 
 # Sensitive configuration
 # We will track a TEMPLATE file instead
@@ -20,3 +21,5 @@ config/micro-raceway-464313-t7-d4239d5d0dfb.json
 
 # macOS system files
 .DS_Store
+.vscode/
+.idea/

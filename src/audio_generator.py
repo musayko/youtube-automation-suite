@@ -1,111 +1,127 @@
 import os
 import json
+import sys
 from elevenlabs.client import ElevenLabs
 from elevenlabs import save
 
-# --- Helper Functions (No changes here) ---
+# Add the parent directory to the Python path to find the 'config' module
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+import config
+
+# --- Helper Functions ---
 
 def load_elevenlabs_api_key():
     """Loads the ElevenLabs API key from the config file."""
+    api_key_path = os.path.join(config.CONFIG_DIR, 'api_keys.json')
     try:
-        with open('../config/api_keys.json', 'r') as f:
+        with open(api_key_path, 'r') as f:
             keys = json.load(f)
             return keys.get('elevenlabs_api_key')
     except Exception as e:
-        print(f"Error loading API key: {e}")
+        print(f"Error loading API key from {api_key_path}: {e}")
         return None
 
-def read_master_script(book_title, script_filename):
-    """Reads the content of the master script file."""
-    script_path = os.path.join('..', 'books', book_title, 'scripts', script_filename)
-    try:
-        with open(script_path, 'r', encoding='utf-8') as f:
-            print(f"Successfully read master script from {script_path}")
-            return f.read()
-    except FileNotFoundError:
-        print(f"Error: Master script file not found at {script_path}")
-        return None
+def get_script_chunks_from_files():
+    """
+    Scans the chunks directory, reads each .txt file, and returns a sorted list
+    of tuples containing the base filename and its content.
+    """
+    chunks_dir = config.CHUNKS_DIR
+    if not os.path.isdir(chunks_dir):
+        print(f"Error: Chunks directory not found at {chunks_dir}")
+        return []
 
-def split_script(text, max_chars=30000):
-    """Splits the script into chunks under the character limit."""
     chunks = []
-    current_pos = 0
-    while current_pos < len(text):
-        end_pos = min(current_pos + max_chars, len(text))
-        if end_pos < len(text):
-            split_point = text.rfind('\n\n', current_pos, end_pos)
-            if split_point != -1:
-                end_pos = split_point
-        chunk = text[current_pos:end_pos].strip()
-        if chunk:
-            chunks.append(chunk)
-        current_pos = end_pos
-    print(f"Script split into {len(chunks)} chunks for audio generation.")
+    # Get all .txt files and sort them numerically
+    try:
+        filenames = sorted(
+            [f for f in os.listdir(chunks_dir) if f.endswith('.txt')],
+            key=lambda f: int(''.join(filter(str.isdigit, f)) or 0)
+        )
+    except ValueError:
+        print(f"Warning: Could not sort files numerically. Using alphabetical sort.")
+        filenames = sorted([f for f in os.listdir(chunks_dir) if f.endswith('.txt')])
+
+
+    print(f"Found {len(filenames)} chunk files in {chunks_dir}")
+
+    for filename in filenames:
+        file_path = os.path.join(chunks_dir, filename)
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+                # Get the filename without the .txt extension
+                basename = os.path.splitext(filename)[0]
+                chunks.append((basename, content))
+        except Exception as e:
+            print(f"Error reading {file_path}: {e}")
+            
     return chunks
 
-# --- Main Audio Generation Logic (Corrected) ---
+# --- Main Audio Generation Logic ---
 
-def generate_audio_for_chunks(client, script_chunks, book_title):
-    """Loops through script chunks and generates an audio file for each."""
-    audio_dir = os.path.join('..', 'books', book_title, 'audio')
-    os.makedirs(audio_dir, exist_ok=True)
+def generate_audio_for_chunks(client, script_chunks):
+    """
+    Loops through script chunks from files and generates a matching audio file for each.
+    """
+    os.makedirs(config.AUDIO_DIR, exist_ok=True)
     
     # The Voice ID for "Adam"
     ADAM_VOICE_ID = "AeRdCCKzvd23BpJoofzx"
 
-    for i, chunk in enumerate(script_chunks):
-        file_path = os.path.join(audio_dir, f"audio_part_{i+1}.mp3")
-        print(f"\nGenerating audio for chunk {i+1}/{len(script_chunks)}...")
+    total_chunks = len(script_chunks)
+    for i, (basename, text_chunk) in enumerate(script_chunks):
+        # Name the output mp3 file to match the input txt file
+        file_path = os.path.join(config.AUDIO_DIR, f"{basename}.mp3")
         
+        print(f"\n[{i+1}/{total_chunks}] Generating audio for '{basename}.txt'...")
+        
+        # --- Check if the audio file already exists to avoid re-generating ---
+        if os.path.exists(file_path):
+            print(f"--> Audio file already exists at {file_path}. Skipping.")
+            continue
+
         try:
-            # --- THIS IS THE CORRECTED METHOD CALL BASED ON YOUR DOCUMENTATION ---
             audio_stream = client.text_to_speech.convert(
                 voice_id=ADAM_VOICE_ID,
-                model_id="eleven_multilingual_v2", # This model is good for narration
-                text=chunk
+                model_id="eleven_multilingual_v2",
+                text=text_chunk
             )
-
-            # The save function is designed to handle the audio stream
             save(audio_stream, file_path)
-            
-            print(f"--> Successfully saved chunk {i+1} to {file_path}")
+            print(f"--> Successfully saved audio to {file_path}")
         except Exception as e:
-            print(f"--> Error generating audio for chunk {i+1}: {e}")
-            break
+            print(f"--> Error generating audio for {basename}.txt: {e}")
+            break # Stop on first error
 
-# --- Main Execution (No changes here, TEST_MODE is still active) ---
+# --- Main Execution ---
 
 if __name__ == "__main__":
     # --- !! TEST MODE FLAG !! ---
-    TEST_MODE = True
+    # Set to a number to process only the first N chunks. Set to False for all.
+    TEST_MODE = 10
     # ---------------------------
 
-    BOOK_TITLE = "Meditations by Marcus Aurelius"
-    SCRIPT_FILENAME = "Meditations by Marcus Aurelius_master_script.txt"
-
-    print("--- Starting Audio Generation ---")
+    print("--- Starting Audio Generation (from chunk files) ---")
+    print(f"Book Title: {config.BOOK_TITLE}")
     if TEST_MODE:
-        print("--- RUNNING IN TEST MODE ---")
+        print(f"--- RUNNING IN TEST MODE (Processing first {TEST_MODE} chunk(s)) ---")
 
     api_key = load_elevenlabs_api_key()
     if api_key:
         elevenlabs_client = ElevenLabs(api_key=api_key)
-        master_script_text = read_master_script(BOOK_TITLE, SCRIPT_FILENAME)
         
-        if master_script_text:
-            script_chunks = split_script(master_script_text, max_chars=30000)
+        # This function replaces read_master_script and split_script
+        script_chunks = get_script_chunks_from_files()
+        
+        if script_chunks:
+            chunks_to_process = script_chunks
+            if TEST_MODE:
+                chunks_to_process = script_chunks[:TEST_MODE]
+                print(f"Test Mode: Selected {len(chunks_to_process)} chunk(s) to process.")
             
-            if TEST_MODE and script_chunks:
-                print("Test Mode: Selecting only the first chunk.")
-                test_chunks = script_chunks[:1] 
-                test_chunks[0] = test_chunks[0][:2000] 
-                print(f"Test Mode: Truncated first chunk to {len(test_chunks[0])} characters.")
-                generate_audio_for_chunks(elevenlabs_client, test_chunks, BOOK_TITLE)
-            elif not TEST_MODE and script_chunks:
-                generate_audio_for_chunks(elevenlabs_client, script_chunks, BOOK_TITLE)
-
+            generate_audio_for_chunks(elevenlabs_client, chunks_to_process)
             print("\n--- Audio generation process complete! ---")
         else:
-            print("--- Halting: Could not read script file. ---")
+            print("--- Halting: No script chunk files were found. ---")
     else:
         print("--- Halting: Could not load ElevenLabs API key. ---")

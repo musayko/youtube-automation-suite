@@ -1,10 +1,10 @@
 import os
 
 # --- THIS IS THE ONLY FILE YOU NEED TO EDIT FOR A NEW BOOK ---
-BOOK_TITLE = "Tthink faster talk smarter"
-AUTHOR = "Matt Abrahams"
+BOOK_TITLE = "The_Very_Secret_Sex_Lives_of_Medieval_Women"
+AUTHOR = "Rosalie Gilbert"
 # The name of the .epub or .pdf file inside the book's folder
-BOOK_FILE_NAME = "Think_Faster_Talk_Smarter.epub"
+BOOK_FILE_NAME = "The_Very_Secret_Sex_Lives_of_Medieval_Women.epub"
 # -------------------------------------------------------------
 
 # --- Project Directories (No changes needed below) ---

@@ -147,7 +147,7 @@ def generate_historical_chunk(book_text, book_title, main_section_title, sub_top
     3.  **NO TRANSITIONS:** Begin the narration immediately. DO NOT write any introductory or transitional phrases like "In this segment..." or "Now, let's turn our attention to...". The script for this subtopic should stand on its own.
     4.  **FOCUSED CONTENT:** Your entire script must be focused on explaining the event, theme, or figures related to "{sub_topic_title}".
     5.  **EVIDENCE-BASED:** Base your narration *exclusively* on the facts, quotes, and arguments presented in the book text provided below.
-    6.  **TARGET LENGTH:** Aim for a narration length of approximately **5 to 9 minutes**. This typically translates to **750-1200 words**, depending on speaking pace. Please ensure the output is a single, self-contained script segment that fits within this timeframe. If you need to prioritize depth over breadth to fit the length, do so.
+    6.  **TARGET LENGTH:** Aim for a narration length of approximately **4 to 8 minutes**. This typically translates to **750-1200 words**, depending on speaking pace. Please ensure the output is a single, self-contained script segment that fits within this timeframe. If you need to prioritize depth over breadth to fit the length, do so.
     7.  **OUTPUT FORMAT:** Start with a markdown heading `## {sub_topic_title}`. Following the heading, write the narration directly in natural, well-formed paragraphs.
 
     **Full Book Text for Reference:** --- {book_text} ---

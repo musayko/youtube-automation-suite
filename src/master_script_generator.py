@@ -185,13 +185,15 @@ def save_chunks_to_files(script_chunks, book_title, author):
     return len(final_chunks)
 
 # --- MAIN EXECUTION ---
-if __name__ == "__main__":
+def main():
     # Pull settings from the central config file
     BOOK_TITLE = config.BOOK_TITLE
     AUTHOR = config.AUTHOR
     BOOK_FILE_NAME = config.BOOK_FILE_NAME
 
+    # --- THE FIX: Define the file path right before we use it ---
     book_file_path = os.path.join(config.BOOK_DIR, BOOK_FILE_NAME)
+    # -----------------------------------------------------------
 
     if not os.path.exists(book_file_path):
         print(f"Error: The file was not found at {book_file_path}")
@@ -201,9 +203,10 @@ if __name__ == "__main__":
             print("Could not load API key. Exiting.")
         else:
             genai.configure(api_key=api_key)
-            model = genai.GenerativeModel('gemini-2.0-flash') 
+            # Make sure to use a model that is available to you, like gemini-1.5-flash
+            model = genai.GenerativeModel('gemini-1.5-flash-latest') 
             
-            full_book_text = get_book_text(book_file_path) # Simplified from previous code
+            full_book_text = get_book_text(book_file_path)
             if full_book_text:
                 # Generate detailed outline
                 outline_data = generate_detailed_outline(full_book_text, BOOK_TITLE.replace("_", " "), model)
@@ -228,3 +231,6 @@ if __name__ == "__main__":
                     print("❌ Failed to generate detailed outline.")
             else:
                 print("❌ Failed to extract text from EPUB.")
+
+if __name__ == "__main__":
+    main()
